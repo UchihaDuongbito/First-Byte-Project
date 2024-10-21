@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import numpy as np
 
 # Load the cleaned Chef's Meal dataset
 cleaned_chefsmeal_data = pd.read_csv('data/cleaned_chefsmeal.csv')
@@ -11,7 +12,7 @@ chefsmeal_fitness_vs_gym.plot(kind='bar', color='orange')
 plt.title('Average Hours at Gym per Week by Fitness Goal (Chef\'s Meal)')
 plt.ylabel('Average Hours at Gym per Week')
 plt.xlabel('Fitness Goal')
-plt.xticks(rotation=45)
+plt.xticks(rotation=15)
 plt.show()
 
 # Visualization 2: Fitness Goal vs. Calorie Intake
@@ -21,7 +22,7 @@ chefsmeal_fitness_vs_calorie.plot(kind='bar', color='green')
 plt.title('Average Calorie Intake by Fitness Goal (Chef\'s Meal)')
 plt.ylabel('Average Calorie Intake')
 plt.xlabel('Fitness Goal')
-plt.xticks(rotation=45)
+plt.xticks(rotation=15)
 plt.show()
 
 # Visualization 3: Fitness Goal vs. Average Spend per Meal Order
@@ -31,7 +32,7 @@ chefsmeal_fitness_vs_spend.plot(kind='bar', color='blue')
 plt.title('Average Spend per Meal Order by Fitness Goal (Chef\'s Meal)')
 plt.ylabel('Average Spend per Meal Order ($)')
 plt.xlabel('Fitness Goal')
-plt.xticks(rotation=45)
+plt.xticks(rotation=15)
 plt.show()
 
 # Visualization 4: Fitness Goal vs. Dietary Preferences
@@ -41,7 +42,7 @@ chefsmeal_fitness_vs_diet.plot(kind='bar', stacked=True, figsize=(10, 6), colorm
 plt.title('Dietary Preferences by Fitness Goal (Chef\'s Meal)')
 plt.ylabel('Count of Customers')
 plt.xlabel('Fitness Goal')
-plt.xticks(rotation=45)
+plt.xticks(rotation=15)
 plt.show()
 
 # Visualization 5: Hours at Gym (per week) vs. Calorie Intake
@@ -63,13 +64,18 @@ plt.xlabel('Hours at Gym (per week)')
 plt.show()
 
 # Visualization 7: Hours at Gym (per week) vs. Dietary Preferences
-plt.figure(figsize=(10, 6))
-chefsmeal_gym_vs_diet = pd.crosstab(cleaned_chefsmeal_data['Hours at Gym (per week)'], cleaned_chefsmeal_data['Dietary Preferences'])
-chefsmeal_gym_vs_diet.plot(kind='bar', stacked=True, figsize=(10, 6), colormap='Set2')
-plt.title('Dietary Preferences by Hours at Gym per Week (Chef\'s Meal)')
+# Bin 'Hours at Gym (per week)' into categories
+gym_bins = pd.cut(cleaned_chefsmeal_data['Hours at Gym (per week)'], bins=np.arange(0, 20, 2))
+gym_vs_diet = pd.crosstab(gym_bins, cleaned_chefsmeal_data['Dietary Preferences'])
+
+# Plotting the data
+plt.figure(figsize=(12, 8))
+gym_vs_diet.plot(kind='bar', stacked=True, colormap='Set3', ax=plt.gca())
+plt.title('Dietary Preferences by Binned Hours at Gym per Week (Chef\'s Meal)')
 plt.ylabel('Count of Customers')
-plt.xlabel('Hours at Gym (per week)')
+plt.xlabel('Binned Hours at Gym (per week)')
 plt.xticks(rotation=45)
+plt.tight_layout()
 plt.show()
 
 # Visualization 8: Calorie Intake vs. Average Spend per Meal Order
@@ -82,13 +88,18 @@ plt.xlabel('Calorie Intake')
 plt.show()
 
 # Visualization 9: Calorie Intake vs. Dietary Preferences
-plt.figure(figsize=(10, 6))
-chefsmeal_calorie_vs_diet = pd.crosstab(cleaned_chefsmeal_data['Calorie Intake'], cleaned_chefsmeal_data['Dietary Preferences'])
-chefsmeal_calorie_vs_diet.plot(kind='bar', stacked=True, figsize=(10, 6), colormap='tab10')
-plt.title('Dietary Preferences by Calorie Intake (Chef\'s Meal)')
+# Bin 'Calorie Intake' into categories
+calorie_bins = pd.cut(cleaned_chefsmeal_data['Calorie Intake'], bins=np.arange(0, 5000, 500))
+calorie_vs_diet = pd.crosstab(calorie_bins, cleaned_chefsmeal_data['Dietary Preferences'])
+
+# Plotting the data
+plt.figure(figsize=(12, 8))
+calorie_vs_diet.plot(kind='bar', stacked=True, colormap='tab20', ax=plt.gca())
+plt.title('Dietary Preferences by Binned Calorie Intake (Chef\'s Meal)')
 plt.ylabel('Count of Customers')
-plt.xlabel('Calorie Intake')
+plt.xlabel('Binned Calorie Intake')
 plt.xticks(rotation=45)
+plt.tight_layout()
 plt.show()
 
 # Visualization 10: Average Spend per Meal Order vs. Dietary Preferences
@@ -98,5 +109,5 @@ chefsmeal_spend_vs_diet.plot(kind='bar', color='cyan')
 plt.title('Average Spend per Meal Order by Dietary Preferences (Chef\'s Meal)')
 plt.ylabel('Average Spend per Meal Order ($)')
 plt.xlabel('Dietary Preferences')
-plt.xticks(rotation=45)
+plt.xticks(rotation=15)
 plt.show()

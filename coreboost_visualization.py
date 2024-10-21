@@ -11,7 +11,7 @@ coreboost_fitness_vs_consumption.plot(kind='bar', color='orange')
 plt.title('Average Weekly Consumption (Bottles) by Fitness Goal (CoreBoost)')
 plt.ylabel('Average Weekly Consumption (Bottles)')
 plt.xlabel('Fitness Goal')
-plt.xticks(rotation=45)
+plt.xticks(rotation=15)
 plt.show()
 
 # Visualization 2: Hours at Gym (per week) vs. Preferred Sports Drink Type
@@ -21,7 +21,7 @@ coreboost_gym_vs_drink.plot(kind='bar', color='green')
 plt.title('Average Hours at Gym per Week by Preferred Sports Drink Type (CoreBoost)')
 plt.ylabel('Average Hours at Gym per Week')
 plt.xlabel('Preferred Sports Drink Type')
-plt.xticks(rotation=45)
+plt.xticks(rotation=15)
 plt.show()
 
 # Visualization 3: Hours at Gym (per week) vs. Average Weekly Consumption (Bottles)
@@ -40,7 +40,7 @@ coreboost_fitness_vs_gym.plot(kind='bar', color='purple')
 plt.title('Average Hours at Gym per Week by Fitness Goal (CoreBoost)')
 plt.ylabel('Average Hours at Gym per Week')
 plt.xlabel('Fitness Goal')
-plt.xticks(rotation=45)
+plt.xticks(rotation=15)
 plt.show()
 
 # Visualization 5: Preferred Sports Drink Type vs. Average Weekly Consumption (Bottles)
@@ -50,7 +50,7 @@ coreboost_drink_vs_consumption.plot(kind='bar', color='red')
 plt.title('Average Weekly Consumption (Bottles) by Preferred Sports Drink Type (CoreBoost)')
 plt.ylabel('Average Weekly Consumption (Bottles)')
 plt.xlabel('Preferred Sports Drink Type')
-plt.xticks(rotation=45)
+plt.xticks(rotation=15)
 plt.show()
 
 # Visualization 6: Preferred Sports Drink Type vs. Fitness Goal
@@ -60,7 +60,7 @@ coreboost_drink_vs_fitness.plot(kind='bar', stacked=True, figsize=(10, 6), color
 plt.title('Preferred Sports Drink Type vs. Fitness Goal (CoreBoost)')
 plt.ylabel('Count of Customers')
 plt.xlabel('Preferred Sports Drink Type')
-plt.xticks(rotation=45)
+plt.xticks(rotation=15)
 plt.show()
 
 
