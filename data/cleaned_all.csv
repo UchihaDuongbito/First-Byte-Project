@@ -1,0 +1,745 @@
+Customer ID,Gender,Age,Hours at Gym (per week),Fitness Goal,Gym Membership Length (years),Calorie Intake,Dietary Preferences,Average Spend per Meal Order,Preferred Sports Drink Type,Average Weekly Consumption (Bottles),Average Spend on Apparel ($/year),Type of Apparel Purchased,Primary Apparel Purchase Channel
+771155,Female,24,6.2,Endurance training,4,2173.0,Whole foods,52.94,Electrolyte,11,659.13,Leisure,Physical Retailer
+231932,Male,22,7.4,Fat loss,2,1752.0,Whole foods,38.13,Electrolyte,12,761.12,Performance,Physical Retailer
+465838,Female,23,6.0,Build muscle,0,2884.0,High protein,61.44,Protein shakes,10,234.87,Performance,E-commerce Retailer
+359178,Female,18,9.3,Build muscle,5,2559.0,Whole foods,69.78,Protein shakes,14,539.69,Leisure,E-commerce Retailer
+744167,Male,23,5.7,Flexibility,1,1606.0,Whole foods,44.64,Fresh juice,10,818.03,Outerwear,Physical Retailer
+210268,Male,30,5.5,Build muscle,2,2719.0,Whole foods,62.43,Protein shakes,10,867.62,Performance,Brand Website
+187498,Male,29,5.8,Build muscle,1,2551.0,Low carb,40.84,Protein shakes,8,895.53,Leisure,Brand Website
+999159,Male,25,4.4,General health,1,2371.0,Whole foods,54.75,Protein shakes,8,699.35,Footwear,Physical Retailer
+275203,Male,24,7.3,Fat loss,1,1533.0,Low carb,28.69,Fresh juice,14,635.62,Performance,Brand Website
+164820,Female,22,7.0,Fat loss,1,1774.0,Low carb,35.79,Fresh juice,11,303.55,Performance,Physical Retailer
+887201,Male,22,6.5,Endurance training,5,2245.0,Whole foods,50.75,Fresh juice,19,584.06,Footwear,E-commerce Retailer
+421879,Female,25,3.9,Endurance training,1,2110.0,Whole foods,51.12,Protein shakes,7,579.58,Performance,Physical Retailer
+818315,Male,24,7.4,Fat loss,1,1733.0,Low carb,35.27,Fresh juice,12,835.77,Footwear,Physical Retailer
+876997,Female,21,8.6,Build muscle,4,2976.0,Whole foods,78.82,Protein shakes,12,442.38,Performance,Physical Retailer
+299041,Male,26,5.6,Fat loss,1,1916.0,High protein,34.56,Electrolyte,9,595.3,Footwear,Physical Retailer
+891743,Female,25,5.7,Build muscle,1,2665.0,High protein,52.98,Electrolyte,9,526.59,Accessories,Physical Retailer
+203355,Male,44,7.3,Build muscle,5,2627.0,High protein,58.95,Protein shakes,9,758.55,Performance,Physical Retailer
+335796,Male,31,5.7,Build muscle,0,2736.0,High protein,58.44,Electrolyte,11,865.06,Outerwear,Physical Retailer
+314176,Male,23,5.9,Endurance training,1,2493.0,Whole foods,60.98,Electrolyte,10,832.35,Performance,Physical Retailer
+284779,Male,19,8.7,Fat loss,4,1790.0,Whole foods,45.42,Fresh juice,14,747.12,Performance,Brand Website
+447449,Male,29,6.2,Build muscle,3,2606.0,Whole foods,68.33,Electrolyte,13,733.86,Performance,Physical Retailer
+521909,Male,21,6.2,Fat loss,0,1627.0,High protein,37.62,Electrolyte,11,632.53,Outerwear,Physical Retailer
+358795,Female,20,7.8,Fat loss,4,1694.0,High protein,33.64,Protein shakes,11,280.48,Leisure,Physical Retailer
+586232,Male,24,8.2,Build muscle,5,2838.0,Low carb,49.41,Protein shakes,15,868.88,Performance,E-commerce Retailer
+600186,Male,25,3.6,Endurance training,1,2393.0,Whole foods,46.36,Energy drinks,12,937.67,Footwear,Brand Website
+256730,Male,27,4.5,General health,1,2274.0,Low carb,41.89,Energy drinks,7,753.44,Yoga,Physical Retailer
+970910,Male,34,5.9,General health,5,2454.0,Whole foods,59.52,Energy drinks,10,701.47,Outerwear,Brand Website
+249503,Female,28,6.4,Fat loss,1,1610.0,Low carb,33.48,Protein shakes,11,386.86,Yoga,Physical Retailer
+754811,Male,27,7.2,Build muscle,4,2589.0,Whole foods,70.68,Protein shakes,15,644.03,Footwear,E-commerce Retailer
+627035,Male,28,7.7,Build muscle,5,2750.0,High protein,52.17,Energy drinks,11,1077.3,Performance,Physical Retailer
+748143,Male,30,5.3,Build muscle,1,2779.0,Whole foods,72.46,Protein shakes,11,603.85,Performance,Physical Retailer
+552366,Male,31,5.0,Flexibility,4,1832.0,Vegan,37.08,Fresh juice,11,841.05,Performance,E-commerce Retailer
+165725,Female,22,8.6,Build muscle,5,2723.0,High protein,59.78,Electrolyte,10,660.46,Performance,E-commerce Retailer
+229981,Male,24,7.1,Build muscle,4,2600.0,Whole foods,56.89,Protein shakes,11,889.86,Outerwear,E-commerce Retailer
+691723,Other,40,5.8,Flexibility,4,1512.0,Whole foods,28.74,Fresh juice,9,738.65,Yoga,E-commerce Retailer
+428947,Female,27,5.5,Build muscle,3,2940.0,High protein,59.52,Protein shakes,8,573.78,Performance,Brand Website
+655839,Male,29,5.1,Build muscle,0,2996.0,High protein,55.4,Protein shakes,12,1025.92,Outerwear,Brand Website
+431236,Male,20,6.8,Build muscle,1,2619.0,Vegan,60.74,Protein shakes,11,629.14,Performance,E-commerce Retailer
+628178,Female,27,6.4,Build muscle,4,2792.0,High protein,54.86,Protein shakes,12,368.69,Outerwear,Brand Website
+665894,Male,18,8.5,Fat loss,4,1803.0,Low carb,34.1,Protein shakes,17,652.89,Performance,Physical Retailer
+589492,Male,20,4.6,Flexibility,1,1500.0,Whole foods,37.64,Electrolyte,8,782.95,Accessories,E-commerce Retailer
+356840,Male,23,7.2,Build muscle,5,2559.0,Whole foods,76.52,Fresh juice,15,1039.87,Performance,E-commerce Retailer
+449457,Female,25,4.3,Endurance training,1,2139.0,Whole foods,57.38,Fresh juice,12,354.09,Performance,E-commerce Retailer
+339931,Female,29,6.2,Build muscle,4,2543.0,High protein,38.75,Electrolyte,13,531.78,Performance,Physical Retailer
+339629,Male,26,7.7,Build muscle,4,2870.0,High protein,54.43,Electrolyte,12,830.11,Outerwear,Physical Retailer
+305041,Male,18,5.1,General health,2,2497.0,High protein,46.62,Fresh juice,13,484.61,Performance,Brand Website
+798361,Male,23,8.7,Build muscle,5,2607.0,Vegan,48.42,Protein shakes,9,698.97,Accessories,E-commerce Retailer
+517113,Male,29,4.5,Build muscle,1,2577.0,High protein,40.08,Protein shakes,6,718.06,Yoga,E-commerce Retailer
+168148,Female,22,7.7,Fat loss,1,1725.0,Whole foods,44.78,Protein shakes,15,751.8,Accessories,Physical Retailer
+877089,Female,21,7.1,Fat loss,2,1661.0,Low carb,37.18,Protein shakes,12,689.62,Performance,Physical Retailer
+778843,Male,29,5.9,Endurance training,4,2131.0,Whole foods,47.85,Protein shakes,9,695.53,Footwear,Physical Retailer
+672843,Male,27,5.8,General health,3,2247.0,High protein,35.43,Electrolyte,9,1079.63,Performance,Brand Website
+356508,Male,21,4.8,General health,1,2273.0,Whole foods,46.2,Fresh juice,10,699.3,Yoga,Brand Website
+903591,Male,41,7.2,Fat loss,5,1643.0,Low carb,26.52,Energy drinks,14,813.38,Footwear,E-commerce Retailer
+206530,Male,32,6.3,Endurance training,4,2193.0,Whole foods,53.58,Electrolyte,16,818.51,Leisure,E-commerce Retailer
+704365,Female,30,6.8,General health,5,1834.0,Whole foods,41.63,Electrolyte,14,922.6,Accessories,Physical Retailer
+922352,Female,29,5.7,Fat loss,1,1966.0,High protein,41.64,Electrolyte,10,745.85,Accessories,E-commerce Retailer
+560337,Female,33,3.8,Endurance training,1,2389.0,Low carb,41.3,Electrolyte,7,583.37,Performance,Brand Website
+824839,Female,22,6.0,General health,1,2074.0,Low carb,39.07,Electrolyte,8,875.47,Leisure,Physical Retailer
+905889,Female,23,7.0,Build muscle,3,2686.0,High protein,59.65,Protein shakes,18,161.6,Accessories,Physical Retailer
+559773,Male,27,6.4,General health,4,2042.0,Low carb,32.91,Fresh juice,10,727.4,Footwear,E-commerce Retailer
+308261,Male,21,8.2,Fat loss,3,1763.0,Low carb,37.74,Protein shakes,19,904.88,Performance,Physical Retailer
+441097,Female,29,7.6,Build muscle,5,2509.0,Vegan,53.34,Fresh juice,11,721.1,Outerwear,E-commerce Retailer
+415139,Male,29,7.8,Build muscle,4,2950.0,High protein,63.77,Electrolyte,9,780.92,Outerwear,Physical Retailer
+271829,Male,25,5.8,Fat loss,1,1665.0,Vegan,41.5,Fresh juice,8,870.92,Performance,Brand Website
+538974,Female,32,6.1,Build muscle,3,2770.0,High protein,53.83,Protein shakes,8,714.1,Performance,Physical Retailer
+723587,Female,26,4.9,Flexibility,1,1966.0,Whole foods,57.32,Energy drinks,12,654.78,Accessories,E-commerce Retailer
+635822,Male,29,5.1,General health,4,2339.0,Whole foods,49.06,Electrolyte,11,642.15,Performance,Physical Retailer
+587879,Female,19,6.2,General health,1,1825.0,High protein,37.2,Fresh juice,8,493.72,Accessories,Physical Retailer
+882038,Female,32,4.0,Endurance training,1,2174.0,Whole foods,55.14,Fresh juice,11,810.06,Performance,Physical Retailer
+453531,Male,26,4.7,Build muscle,1,2503.0,Vegan,44.48,Protein shakes,9,952.69,Performance,Brand Website
+320884,Other,27,6.1,Fat loss,1,1566.0,High protein,29.4,Electrolyte,9,957.37,Footwear,E-commerce Retailer
+123247,Female,32,5.5,Build muscle,1,2634.0,Low carb,40.63,Protein shakes,9,649.78,Performance,Brand Website
+124300,Female,23,7.5,General health,4,1854.0,Whole foods,45.39,Fresh juice,12,521.77,Footwear,Physical Retailer
+567281,Female,40,3.7,Build muscle,1,2963.0,Low carb,57.27,Electrolyte,10,514.19,Yoga,Physical Retailer
+707086,Male,35,5.5,Flexibility,4,2042.0,Whole foods,50.22,Fresh juice,7,967.69,Leisure,Physical Retailer
+633556,Other,20,7.2,Build muscle,3,2573.0,Whole foods,66.79,Protein shakes,10,578.59,Leisure,E-commerce Retailer
+374329,Female,36,6.9,Fat loss,1,1655.0,Whole foods,44.08,Protein shakes,7,496.8,Footwear,Brand Website
+937646,Other,30,5.3,General health,4,2068.0,Whole foods,48.84,Fresh juice,13,894.74,Leisure,Brand Website
+476896,Female,34,7.0,Flexibility,5,1832.0,Whole foods,47.73,Fresh juice,11,662.56,Leisure,Physical Retailer
+148984,Male,28,8.8,Fat loss,4,1542.0,High protein,29.62,Fresh juice,11,706.6,Footwear,Physical Retailer
+402918,Female,31,6.8,Fat loss,4,1894.0,High protein,41.71,Electrolyte,5,879.57,Footwear,Physical Retailer
+220151,Female,24,7.9,General health,4,2200.0,High protein,45.21,Electrolyte,12,491.71,Performance,Brand Website
+555808,Female,23,5.9,Endurance training,3,2437.0,Vegan,56.63,Fresh juice,7,579.6,Performance,E-commerce Retailer
+233767,Male,31,4.7,Build muscle,1,2805.0,High protein,58.2,Protein shakes,7,842.47,Performance,Physical Retailer
+748663,Male,30,6.2,Build muscle,3,2527.0,High protein,50.34,Protein shakes,10,784.69,Outerwear,E-commerce Retailer
+803550,Female,41,3.4,General health,1,2266.0,Whole foods,44.86,Electrolyte,10,787.79,Leisure,Physical Retailer
+236330,Male,21,5.9,Build muscle,2,2759.0,High protein,69.35,Protein shakes,10,875.16,Outerwear,Physical Retailer
+580754,Female,26,5.1,Build muscle,1,2521.0,Low carb,54.41,Protein shakes,9,349.2,Leisure,E-commerce Retailer
+401648,Male,31,8.3,Fat loss,5,1969.0,High protein,45.7,Protein shakes,13,817.5,Footwear,E-commerce Retailer
+788519,Male,19,7.4,Build muscle,2,2874.0,Whole foods,66.82,Protein shakes,9,645.33,Performance,Physical Retailer
+686146,Male,34,5.5,General health,4,2350.0,Whole foods,54.56,Electrolyte,8,1065.49,Footwear,Physical Retailer
+229312,Male,21,5.3,General health,2,2152.0,Whole foods,58.98,Protein shakes,7,936.49,Footwear,E-commerce Retailer
+400804,Male,34,5.3,General health,1,2481.0,Whole foods,56.14,Protein shakes,8,853.46,Performance,Physical Retailer
+388998,Male,29,3.7,General health,1,2152.0,Whole foods,56.99,Electrolyte,9,769.91,Footwear,E-commerce Retailer
+950937,Male,29,6.1,Build muscle,1,2895.0,High protein,64.99,Electrolyte,9,788.31,Performance,Physical Retailer
+728776,Male,25,4.0,Endurance training,2,2129.0,Whole foods,58.74,Fresh juice,7,882.44,Performance,Physical Retailer
+384806,Female,31,3.9,Build muscle,0,2573.0,High protein,48.17,Protein shakes,8,508.37,Performance,Physical Retailer
+130535,Female,20,8.6,Fat loss,3,1964.0,Whole foods,52.56,Protein shakes,17,522.3,Footwear,Physical Retailer
+938688,Male,22,8.6,Build muscle,4,2566.0,Whole foods,65.31,Electrolyte,9,892.83,Performance,Physical Retailer
+451279,Female,30,5.2,General health,4,2254.0,Whole foods,55.14,Electrolyte,7,565.76,Outerwear,Physical Retailer
+589570,Female,34,4.7,Build muscle,1,2847.0,Vegan,62.69,Electrolyte,8,582.16,Performance,Physical Retailer
+556551,Female,31,5.2,General health,1,2032.0,Whole foods,54.61,Electrolyte,9,922.06,Yoga,Physical Retailer
+373109,Male,22,9.1,Fat loss,4,1765.0,Low carb,39.42,Fresh juice,12,674.57,Performance,Physical Retailer
+124538,Female,18,8.0,Build muscle,3,2585.0,High protein,50.88,Protein shakes,15,238.34,Accessories,Physical Retailer
+994498,Female,28,5.7,Fat loss,1,1601.0,Low carb,30.62,Fresh juice,9,723.61,Footwear,Physical Retailer
+301664,Female,29,6.0,Build muscle,4,2940.0,Low carb,53.77,Fresh juice,6,669.31,Leisure,E-commerce Retailer
+591234,Female,30,7.2,Fat loss,4,1980.0,Whole foods,50.85,Protein shakes,10,398.31,Footwear,E-commerce Retailer
+999684,Female,33,3.9,General health,1,2013.0,Whole foods,53.4,Electrolyte,9,294.05,Performance,Physical Retailer
+239182,Male,25,7.8,Fat loss,5,1607.0,High protein,38.38,Electrolyte,9,840.88,Footwear,Physical Retailer
+572525,Male,31,7.1,Endurance training,5,2164.0,Whole foods,64.76,Protein shakes,10,954.57,Outerwear,Physical Retailer
+284064,Female,32,5.8,General health,4,2402.0,Whole foods,59.08,Fresh juice,14,508.36,Yoga,E-commerce Retailer
+314020,Male,31,4.5,Endurance training,1,2191.0,Whole foods,33.71,Protein shakes,10,843.76,Performance,Physical Retailer
+723094,Female,21,7.4,Build muscle,4,2834.0,Whole foods,75.87,Fresh juice,13,504.79,Yoga,Physical Retailer
+715270,Male,31,4.2,Build muscle,1,2721.0,High protein,48.33,Protein shakes,9,808.28,Outerwear,Physical Retailer
+745914,Female,39,5.3,General health,1,2223.0,Whole foods,52.27,Fresh juice,6,375.82,Performance,Brand Website
+219176,Female,21,7.2,Fat loss,3,1600.0,High protein,32.33,Electrolyte,9,259.04,Footwear,Physical Retailer
+222409,Male,33,3.1,General health,0,2281.0,Whole foods,48.41,Electrolyte,4,801.5,Accessories,E-commerce Retailer
+647707,Female,25,4.3,Endurance training,2,2249.0,High protein,45.64,Protein shakes,9,777.32,Accessories,E-commerce Retailer
+353618,Male,27,6.7,General health,5,2359.0,Whole foods,61.55,Protein shakes,11,753.35,Accessories,E-commerce Retailer
+869598,Male,37,4.2,Build muscle,0,2616.0,Vegan,57.58,Protein shakes,7,860.38,Accessories,Physical Retailer
+150015,Male,29,6.9,Fat loss,3,1726.0,Low carb,30.06,Fresh juice,14,900.42,Footwear,E-commerce Retailer
+872838,Male,32,6.9,General health,4,2344.0,Whole foods,53.37,Electrolyte,16,783.18,Outerwear,Brand Website
+222096,Male,18,9.1,Build muscle,5,2543.0,High protein,50.52,Protein shakes,16,513.0,Leisure,Brand Website
+731347,Male,20,6.8,Build muscle,4,2975.0,High protein,60.19,Electrolyte,9,655.24,Performance,E-commerce Retailer
+974371,Female,23,7.2,Build muscle,3,2844.0,Low carb,51.58,Fresh juice,13,419.97,Performance,Physical Retailer
+511357,Female,25,5.4,Build muscle,1,2791.0,Whole foods,60.45,Protein shakes,9,517.31,Yoga,E-commerce Retailer
+835716,Male,33,4.5,Build muscle,0,2836.0,Whole foods,59.15,Electrolyte,8,997.43,Performance,Physical Retailer
+298286,Female,24,8.3,General health,5,2483.0,High protein,53.58,Electrolyte,12,294.05,Leisure,E-commerce Retailer
+873290,Female,18,5.7,Flexibility,0,2023.0,High protein,45.58,Fresh juice,6,301.15,Yoga,Brand Website
+424767,Female,32,5.8,Build muscle,2,2932.0,High protein,68.34,Protein shakes,9,474.59,Performance,Brand Website
+961882,Female,21,5.7,Build muscle,1,2743.0,Vegan,56.82,Protein shakes,7,246.39,Performance,Physical Retailer
+979858,Male,22,6.5,Flexibility,1,2163.0,Vegan,51.05,Electrolyte,10,677.11,Accessories,Brand Website
+515515,Female,42,5.9,Build muscle,4,2687.0,High protein,43.84,Protein shakes,14,730.7,Performance,Physical Retailer
+471369,Female,30,6.7,Fat loss,2,1512.0,Low carb,27.41,Electrolyte,5,573.48,Accessories,Physical Retailer
+164044,Male,25,3.6,Endurance training,1,2090.0,Whole foods,55.19,Protein shakes,14,576.46,Performance,Physical Retailer
+209556,Male,29,6.5,Flexibility,4,2085.0,Vegan,50.43,Energy drinks,12,974.23,Footwear,E-commerce Retailer
+626981,Male,33,5.5,Fat loss,1,1755.0,Whole foods,38.95,Electrolyte,10,772.27,Outerwear,Brand Website
+300235,Male,34,6.7,Build muscle,4,2775.0,High protein,56.37,Protein shakes,11,1052.86,Leisure,Physical Retailer
+125939,Male,31,4.0,Flexibility,1,1570.0,Vegan,33.76,Electrolyte,6,703.06,Yoga,Physical Retailer
+252906,Male,32,5.6,Flexibility,5,2089.0,Whole foods,50.61,Fresh juice,9,728.22,Accessories,Physical Retailer
+388249,Male,32,4.8,General health,1,1842.0,Low carb,30.71,Fresh juice,10,1043.28,Performance,Brand Website
+175766,Female,24,8.6,Build muscle,5,2507.0,Whole foods,56.54,Electrolyte,14,447.31,Performance,Physical Retailer
+508923,Female,28,4.3,Flexibility,1,1512.0,Vegan,33.02,Fresh juice,7,676.69,Performance,Physical Retailer
+515192,Female,31,6.4,Fat loss,1,1712.0,High protein,33.94,Electrolyte,8,401.78,Performance,Physical Retailer
+668550,Female,20,6.5,General health,3,2422.0,High protein,65.68,Protein shakes,13,865.96,Leisure,E-commerce Retailer
+487261,Female,21,6.5,Flexibility,4,2034.0,Vegan,48.25,Fresh juice,6,264.88,Yoga,Physical Retailer
+910208,Other,38,5.9,Flexibility,4,1801.0,Vegan,37.79,Fresh juice,10,924.59,Yoga,E-commerce Retailer
+752664,Male,28,6.4,Build muscle,2,2629.0,Vegan,46.98,Fresh juice,10,879.21,Performance,Brand Website
+554589,Male,24,4.7,Flexibility,0,2072.0,Vegan,39.04,Electrolyte,9,684.73,Yoga,Brand Website
+237848,Male,25,5.1,Endurance training,4,2114.0,Whole foods,52.22,Fresh juice,9,807.36,Performance,Physical Retailer
+717075,Female,25,4.5,Flexibility,1,1959.0,Vegan,48.94,Electrolyte,9,504.92,Outerwear,Physical Retailer
+227948,Female,25,7.1,Endurance training,6,2319.0,High protein,53.03,Electrolyte,12,432.83,Accessories,Brand Website
+502690,Male,22,7.5,Build muscle,1,2919.0,High protein,56.93,Protein shakes,11,734.64,Performance,Physical Retailer
+599046,Male,25,7.8,Fat loss,5,1950.0,Low carb,39.76,Protein shakes,14,795.07,Yoga,Brand Website
+551269,Female,23,5.9,General health,1,2124.0,High protein,40.36,Protein shakes,8,214.89,Yoga,Physical Retailer
+121959,Female,29,6.2,Build muscle,3,2566.0,Low carb,55.89,Fresh juice,10,898.74,Performance,E-commerce Retailer
+760890,Male,35,6.7,Fat loss,1,1748.0,High protein,35.88,Electrolyte,8,888.66,Leisure,Physical Retailer
+890180,Female,21,5.7,General health,1,2313.0,Whole foods,45.52,Fresh juice,12,413.38,Accessories,Physical Retailer
+328576,Male,25,5.8,Fat loss,1,1671.0,High protein,33.74,Electrolyte,9,860.11,Performance,Physical Retailer
+265838,Female,28,5.5,Build muscle,3,2947.0,High protein,52.11,Protein shakes,6,214.8,Performance,Physical Retailer
+435674,Male,25,3.7,Build muscle,0,2964.0,Low carb,48.11,Protein shakes,9,777.77,Performance,Physical Retailer
+979989,Male,32,6.0,Fat loss,1,1833.0,High protein,41.76,Protein shakes,8,875.79,Footwear,Physical Retailer
+161087,Male,33,6.7,Build muscle,4,2783.0,Low carb,43.9,Electrolyte,12,744.95,Performance,Physical Retailer
+693128,Male,31,6.5,Build muscle,4,2974.0,Low carb,59.56,Energy drinks,12,741.44,Outerwear,Brand Website
+218451,Female,20,6.5,Flexibility,1,1553.0,Whole foods,37.48,Electrolyte,13,399.8,Yoga,E-commerce Retailer
+547600,Female,20,5.6,General health,1,2257.0,Whole foods,53.32,Protein shakes,10,806.64,Performance,Physical Retailer
+937437,Male,19,8.2,Fat loss,3,1566.0,Low carb,26.78,Electrolyte,14,685.91,Performance,Physical Retailer
+539792,Male,33,3.7,Flexibility,1,1919.0,Vegan,42.27,Fresh juice,7,885.64,Performance,Physical Retailer
+139353,Male,24,7.1,Build muscle,1,2601.0,Whole foods,76.5,Protein shakes,13,817.75,Performance,E-commerce Retailer
+165318,Male,27,4.7,Build muscle,0,2969.0,High protein,55.62,Fresh juice,11,851.84,Performance,E-commerce Retailer
+865313,Male,19,5.8,Fat loss,1,1803.0,Whole foods,52.08,Protein shakes,10,790.69,Footwear,Brand Website
+582690,Female,30,8.5,Fat loss,4,1922.0,Whole foods,54.08,Protein shakes,14,431.34,Yoga,Brand Website
+516880,Male,35,5.0,General health,3,2358.0,High protein,31.73,Fresh juice,13,834.99,Leisure,E-commerce Retailer
+840976,Male,26,5.3,Build muscle,1,2520.0,High protein,54.32,Protein shakes,9,847.1,Performance,Physical Retailer
+881239,Female,33,5.3,Build muscle,2,2657.0,High protein,52.82,Electrolyte,11,685.67,Performance,Physical Retailer
+193264,Female,19,8.3,Build muscle,4,2847.0,High protein,52.77,Protein shakes,8,678.37,Outerwear,Physical Retailer
+870746,Male,21,6.5,Fat loss,1,1658.0,Vegan,34.36,Energy drinks,8,712.0,Accessories,Physical Retailer
+913168,Male,18,6.0,Build muscle,1,2876.0,High protein,47.04,Fresh juice,8,687.32,Performance,Physical Retailer
+325281,Female,34,5.5,General health,4,2034.0,High protein,40.57,Fresh juice,15,465.52,Performance,Brand Website
+369536,Male,22,7.4,Endurance training,4,2084.0,Whole foods,62.68,Fresh juice,11,446.64,Accessories,Physical Retailer
+357426,Male,32,6.1,Build muscle,3,2892.0,Whole foods,69.01,Electrolyte,6,962.97,Accessories,Physical Retailer
+277789,Female,20,6.9,Build muscle,4,2900.0,Whole foods,75.93,Energy drinks,12,387.39,Performance,Physical Retailer
+613153,Male,30,7.6,Build muscle,5,2546.0,High protein,59.18,Fresh juice,10,1086.12,Performance,Physical Retailer
+225657,Female,26,4.9,Build muscle,2,2986.0,Vegan,62.84,Protein shakes,10,246.32,Accessories,Physical Retailer
+335167,Male,20,6.1,Fat loss,1,1558.0,High protein,37.08,Protein shakes,11,835.81,Yoga,E-commerce Retailer
+781669,Male,23,5.1,Endurance training,1,2053.0,High protein,45.02,Fresh juice,10,608.92,Performance,Physical Retailer
+580671,Male,28,7.9,Fat loss,6,1841.0,Whole foods,40.62,Protein shakes,13,802.2,Accessories,Physical Retailer
+170467,Other,22,6.5,Build muscle,1,2691.0,High protein,50.43,Protein shakes,14,614.11,Performance,E-commerce Retailer
+283734,Male,28,4.9,General health,1,2302.0,Whole foods,54.39,Protein shakes,8,907.08,Outerwear,Brand Website
+722794,Female,24,6.4,Fat loss,0,1505.0,Low carb,25.44,Fresh juice,11,984.7,Yoga,Physical Retailer
+209751,Female,27,6.3,General health,4,1943.0,Vegan,56.42,Energy drinks,12,409.39,Leisure,Brand Website
+481050,Male,23,5.0,Build muscle,0,2845.0,Vegan,60.69,Protein shakes,8,714.98,Performance,Brand Website
+911774,Male,23,6.4,Endurance training,3,2260.0,High protein,41.55,Electrolyte,11,921.64,Accessories,Physical Retailer
+792517,Male,28,7.1,Fat loss,4,1572.0,Vegan,40.65,Electrolyte,8,701.94,Outerwear,Brand Website
+561079,Male,23,7.2,Build muscle,1,2673.0,High protein,57.72,Protein shakes,12,937.31,Outerwear,E-commerce Retailer
+468452,Male,27,7.6,Fat loss,4,1731.0,Whole foods,44.09,Fresh juice,10,983.41,Footwear,E-commerce Retailer
+713333,Female,34,6.7,Build muscle,4,2927.0,Whole foods,67.09,Protein shakes,8,507.23,Leisure,Physical Retailer
+658986,Male,39,7.0,Build muscle,3,2946.0,Whole foods,69.42,Electrolyte,11,1109.06,Performance,Physical Retailer
+455528,Female,38,7.1,Build muscle,4,2552.0,Whole foods,63.43,Protein shakes,15,310.9,Performance,E-commerce Retailer
+710490,Male,32,7.2,Endurance training,5,2364.0,Low carb,53.08,Electrolyte,11,602.87,Footwear,Physical Retailer
+115708,Male,23,5.5,Flexibility,1,1518.0,Whole foods,37.34,Fresh juice,8,874.72,Yoga,E-commerce Retailer
+978338,Male,43,5.8,Build muscle,4,2802.0,Whole foods,67.97,Protein shakes,8,877.42,Performance,Physical Retailer
+233883,Male,25,5.7,Endurance training,4,2278.0,Low carb,41.07,Energy drinks,8,683.78,Footwear,E-commerce Retailer
+418394,Female,23,5.8,General health,3,2428.0,High protein,54.06,Fresh juice,14,538.06,Accessories,Physical Retailer
+212547,Male,26,7.4,Fat loss,4,1605.0,High protein,35.56,Fresh juice,10,1084.33,Performance,Physical Retailer
+659042,Male,29,7.5,Fat loss,4,1918.0,High protein,44.09,Fresh juice,14,777.45,Footwear,Brand Website
+851102,Male,26,4.3,Flexibility,1,1808.0,Whole foods,49.28,Fresh juice,6,830.01,Leisure,E-commerce Retailer
+862002,Female,28,7.2,Build muscle,3,2726.0,Whole foods,69.04,Electrolyte,9,562.53,Outerwear,E-commerce Retailer
+314835,Male,26,5.7,General health,4,2327.0,High protein,47.19,Electrolyte,8,720.84,Accessories,E-commerce Retailer
+501896,Female,25,4.6,Endurance training,1,2272.0,High protein,43.72,Electrolyte,8,604.24,Performance,E-commerce Retailer
+184896,Other,23,8.7,Build muscle,5,2659.0,High protein,55.26,Electrolyte,15,686.29,Performance,Brand Website
+171295,Female,27,7.8,Build muscle,5,2755.0,Low carb,64.62,Protein shakes,9,879.35,Leisure,Physical Retailer
+843974,Male,28,6.1,Build muscle,2,2679.0,High protein,46.45,Protein shakes,7,654.78,Accessories,Physical Retailer
+987121,Female,30,8.3,Fat loss,5,1519.0,Low carb,21.75,Electrolyte,14,606.21,Footwear,Physical Retailer
+399648,Male,21,6.4,Endurance training,1,2119.0,Whole foods,50.92,Electrolyte,11,933.17,Outerwear,Physical Retailer
+757162,Male,30,6.5,Build muscle,4,2693.0,High protein,55.25,Protein shakes,10,1009.77,Accessories,E-commerce Retailer
+108155,Female,30,6.2,Build muscle,2,2967.0,High protein,61.29,Protein shakes,11,721.85,Footwear,Brand Website
+566872,Male,33,6.2,Build muscle,1,2610.0,High protein,58.36,Protein shakes,7,767.69,Accessories,Physical Retailer
+925816,Female,34,5.6,Build muscle,4,2709.0,Whole foods,57.9,Protein shakes,14,664.96,Outerwear,Brand Website
+474705,Female,30,6.0,Fat loss,0,1500.0,High protein,29.02,Protein shakes,8,695.99,Yoga,Physical Retailer
+908350,Female,28,3.5,Flexibility,0,1592.0,Whole foods,42.47,Fresh juice,8,633.65,Accessories,E-commerce Retailer
+710269,Female,35,4.6,General health,0,2020.0,Whole foods,60.1,Electrolyte,11,167.74,Performance,Physical Retailer
+654594,Other,24,6.8,Build muscle,4,2710.0,Whole foods,71.19,Electrolyte,11,948.92,Performance,Physical Retailer
+247718,Female,26,6.1,Fat loss,1,1927.0,Low carb,36.39,Fresh juice,12,732.07,Outerwear,Physical Retailer
+408987,Female,29,6.7,Build muscle,3,2731.0,High protein,50.07,Protein shakes,9,749.51,Accessories,Brand Website
+745263,Other,28,5.5,Build muscle,1,2761.0,High protein,51.28,Electrolyte,11,580.86,Outerwear,Brand Website
+207512,Male,21,5.5,Build muscle,1,2602.0,High protein,54.51,Protein shakes,10,813.1,Performance,Physical Retailer
+570587,Male,27,7.0,Flexibility,6,1873.0,Vegan,35.51,Energy drinks,11,836.79,Yoga,Physical Retailer
+473616,Male,30,6.9,Fat loss,1,1609.0,Low carb,29.89,Protein shakes,10,613.62,Leisure,E-commerce Retailer
+757409,Female,26,6.5,Fat loss,1,1955.0,High protein,44.78,Electrolyte,10,822.18,Footwear,Physical Retailer
+786976,Female,25,7.0,Build muscle,5,2587.0,Vegan,57.8,Protein shakes,8,299.84,Performance,E-commerce Retailer
+475037,Male,26,4.7,General health,1,1813.0,High protein,38.31,Protein shakes,9,880.73,Outerwear,Physical Retailer
+907364,Female,18,6.6,Build muscle,0,2632.0,High protein,60.79,Electrolyte,11,795.04,Performance,Physical Retailer
+217796,Female,33,4.9,Fat loss,0,1924.0,Vegan,42.62,Protein shakes,9,673.85,Accessories,E-commerce Retailer
+391999,Female,18,7.4,Build muscle,4,2795.0,Low carb,50.11,Protein shakes,12,298.83,Performance,Physical Retailer
+292506,Female,34,6.8,Fat loss,1,1533.0,Low carb,26.16,Protein shakes,13,590.02,Footwear,Physical Retailer
+798376,Female,22,6.1,Build muscle,1,2879.0,High protein,57.95,Electrolyte,12,482.02,Performance,Physical Retailer
+369544,Male,26,4.9,General health,2,2007.0,Whole foods,36.87,Protein shakes,4,715.2,Performance,Physical Retailer
+480002,Female,31,4.8,General health,1,1998.0,Whole foods,47.87,Fresh juice,8,438.13,Footwear,Physical Retailer
+798002,Male,34,4.4,General health,1,2391.0,Whole foods,56.29,Protein shakes,11,886.3,Accessories,Brand Website
+639439,Male,25,5.2,Build muscle,2,2570.0,High protein,43.6,Protein shakes,11,944.09,Performance,Physical Retailer
+690978,Female,25,4.6,General health,1,1954.0,Whole foods,43.0,Protein shakes,6,844.36,Footwear,Physical Retailer
+628787,Male,27,6.8,Fat loss,1,1577.0,Whole foods,44.97,Protein shakes,8,774.23,Footwear,Brand Website
+630583,Female,29,6.4,Build muscle,3,2577.0,High protein,52.66,Protein shakes,14,631.43,Performance,Physical Retailer
+488215,Male,24,5.4,Endurance training,0,2171.0,Whole foods,53.68,Fresh juice,11,1152.37,Leisure,Brand Website
+421184,Female,25,5.4,Build muscle,1,2788.0,Whole foods,68.58,Electrolyte,12,386.51,Performance,E-commerce Retailer
+522515,Other,28,6.6,General health,4,2219.0,Whole foods,61.42,Fresh juice,7,451.34,Leisure,E-commerce Retailer
+768234,Female,33,5.3,Build muscle,3,2506.0,High protein,49.97,Fresh juice,10,455.37,Performance,Physical Retailer
+478480,Male,33,5.2,Fat loss,0,1659.0,Whole foods,34.2,Fresh juice,6,779.7,Accessories,E-commerce Retailer
+132711,Female,28,5.5,Build muscle,1,2739.0,High protein,61.85,Protein shakes,8,440.86,Performance,Physical Retailer
+891971,Other,27,3.8,General health,1,2222.0,Whole foods,54.89,Protein shakes,12,832.53,Footwear,Physical Retailer
+601157,Male,19,7.2,Flexibility,4,2035.0,Whole foods,48.6,Fresh juice,10,1071.73,Accessories,Physical Retailer
+284423,Male,36,5.4,General health,2,1869.0,Whole foods,40.11,Fresh juice,7,886.86,Leisure,E-commerce Retailer
+803714,Male,21,6.5,Build muscle,1,2715.0,Low carb,49.41,Energy drinks,7,982.51,Outerwear,Physical Retailer
+757917,Female,25,5.1,Fat loss,2,1603.0,High protein,40.8,Energy drinks,11,556.4,Footwear,Brand Website
+837378,Male,18,7.7,Build muscle,4,2553.0,High protein,47.93,Protein shakes,8,907.59,Leisure,Physical Retailer
+867836,Female,27,7.2,Fat loss,4,1829.0,Low carb,40.56,Protein shakes,10,727.38,Footwear,Physical Retailer
+802335,Male,23,7.4,Flexibility,4,1702.0,Low carb,34.85,Fresh juice,11,1024.78,Yoga,Physical Retailer
+743409,Female,30,6.6,Build muscle,2,2544.0,High protein,50.88,Electrolyte,11,727.98,Outerwear,Brand Website
+177505,Female,27,4.5,Build muscle,1,2816.0,High protein,55.46,Protein shakes,12,743.05,Performance,Physical Retailer
+102869,Female,23,6.6,Flexibility,4,1697.0,Whole foods,49.29,Fresh juice,9,521.33,Performance,E-commerce Retailer
+736584,Male,31,6.6,Fat loss,1,1883.0,Low carb,24.53,Electrolyte,8,956.76,Footwear,Physical Retailer
+718467,Male,24,8.5,Fat loss,4,1934.0,Low carb,48.97,Fresh juice,11,818.12,Footwear,Physical Retailer
+190272,Male,26,7.4,Build muscle,5,2831.0,Whole foods,61.09,Energy drinks,7,687.5,Leisure,E-commerce Retailer
+977844,Male,28,7.5,Fat loss,5,1665.0,Low carb,32.74,Electrolyte,15,800.44,Footwear,Brand Website
+580047,Male,26,5.9,Flexibility,4,1817.0,Whole foods,50.63,Fresh juice,11,826.69,Yoga,Physical Retailer
+759347,Male,31,4.1,Flexibility,1,1773.0,Whole foods,37.88,Energy drinks,8,639.4,Yoga,Brand Website
+158871,Male,26,6.5,General health,4,2182.0,High protein,45.78,Electrolyte,15,720.85,Outerwear,Brand Website
+539430,Male,31,4.4,Endurance training,1,2102.0,Whole foods,52.29,Fresh juice,9,770.8,Footwear,E-commerce Retailer
+710704,Female,24,8.0,Build muscle,3,2947.0,High protein,59.12,Electrolyte,10,946.81,Performance,E-commerce Retailer
+956703,Male,27,6.6,Build muscle,5,2832.0,High protein,56.72,Protein shakes,16,832.61,Accessories,Physical Retailer
+356687,Female,36,6.8,General health,5,2415.0,Whole foods,57.23,Fresh juice,8,550.02,Leisure,Brand Website
+825451,Male,26,6.0,Build muscle,1,2913.0,High protein,58.67,Electrolyte,6,958.44,Footwear,Physical Retailer
+207450,Female,29,6.3,Flexibility,3,1744.0,Whole foods,49.0,Fresh juice,12,656.05,Yoga,Brand Website
+381974,Other,24,6.0,Endurance training,0,2115.0,High protein,45.94,Fresh juice,10,498.14,Performance,E-commerce Retailer
+500109,Male,22,8.3,Build muscle,5,2640.0,High protein,54.0,Fresh juice,9,876.04,Accessories,Physical Retailer
+216381,Male,27,6.0,Build muscle,3,2917.0,High protein,61.46,Protein shakes,10,793.97,Performance,Physical Retailer
+573125,Female,29,5.6,Build muscle,4,2855.0,High protein,51.34,Electrolyte,13,477.52,Performance,Brand Website
+234508,Female,27,7.1,Fat loss,4,1624.0,Vegan,34.68,Protein shakes,12,1005.36,Yoga,E-commerce Retailer
+829650,Male,24,4.5,Endurance training,0,2024.0,High protein,36.2,Protein shakes,10,736.63,Performance,E-commerce Retailer
+962645,Female,18,7.5,Fat loss,3,1693.0,High protein,36.08,Protein shakes,9,433.99,Outerwear,Physical Retailer
+499111,Female,37,7.1,Build muscle,5,2883.0,High protein,54.39,Electrolyte,14,543.63,Performance,Physical Retailer
+250810,Female,30,5.6,Flexibility,4,2111.0,Vegan,49.35,Fresh juice,7,472.62,Accessories,Physical Retailer
+392890,Female,25,6.2,Build muscle,3,2901.0,High protein,55.74,Protein shakes,13,908.51,Outerwear,E-commerce Retailer
+673665,Male,23,4.8,Flexibility,1,2016.0,Low carb,37.86,Electrolyte,11,826.91,Leisure,E-commerce Retailer
+940477,Other,28,7.4,Fat loss,5,1518.0,Whole foods,40.86,Protein shakes,12,667.25,Performance,Physical Retailer
+469599,Male,34,8.4,Build muscle,6,2773.0,High protein,56.51,Protein shakes,10,1042.48,Accessories,Physical Retailer
+760960,Male,23,8.3,Fat loss,3,1753.0,Low carb,38.12,Electrolyte,14,701.1,Footwear,Physical Retailer
+850020,Male,21,6.3,Build muscle,1,2620.0,High protein,48.22,Protein shakes,9,752.25,Leisure,Brand Website
+979611,Male,30,7.1,Build muscle,4,2531.0,Whole foods,69.62,Protein shakes,10,718.76,Accessories,Physical Retailer
+829903,Female,24,7.3,Build muscle,4,2765.0,High protein,49.05,Protein shakes,12,615.92,Yoga,Physical Retailer
+145714,Other,23,8.0,Fat loss,2,1536.0,Vegan,37.29,Energy drinks,8,457.56,Yoga,Brand Website
+727234,Male,28,7.4,Build muscle,4,2676.0,High protein,49.83,Electrolyte,10,829.6,Performance,E-commerce Retailer
+996048,Female,28,6.8,Build muscle,3,2841.0,High protein,59.9,Protein shakes,8,439.96,Performance,Physical Retailer
+730271,Male,26,4.8,General health,0,1812.0,Vegan,50.22,Fresh juice,13,642.36,Performance,Physical Retailer
+566960,Male,22,9.6,Fat loss,6,1682.0,Low carb,31.5,Electrolyte,14,748.95,Performance,Physical Retailer
+811851,Male,34,5.7,Endurance training,3,2144.0,Vegan,48.03,Fresh juice,8,766.14,Outerwear,Physical Retailer
+224123,Male,33,5.0,Endurance training,1,2264.0,Low carb,32.58,Protein shakes,11,868.35,Footwear,Physical Retailer
+405628,Female,29,5.4,General health,1,1887.0,Vegan,43.39,Fresh juice,9,683.16,Leisure,Physical Retailer
+398356,Male,24,7.9,Endurance training,4,2461.0,Whole foods,58.57,Electrolyte,13,977.96,Performance,Physical Retailer
+929957,Male,28,4.6,Flexibility,1,1545.0,Low carb,23.67,Fresh juice,6,651.67,Footwear,E-commerce Retailer
+278274,Male,36,4.7,General health,1,2191.0,High protein,46.86,Protein shakes,11,726.37,Yoga,Brand Website
+787995,Male,25,7.1,Fat loss,4,1618.0,Low carb,37.41,Electrolyte,9,720.21,Footwear,E-commerce Retailer
+425352,Other,34,7.0,Endurance training,5,2420.0,Whole foods,60.17,Protein shakes,13,845.09,Performance,Physical Retailer
+511927,Male,25,5.6,Endurance training,4,2446.0,Whole foods,67.46,Energy drinks,12,1051.64,Performance,Physical Retailer
+889852,Male,22,6.0,Build muscle,1,2719.0,High protein,49.99,Protein shakes,8,610.01,Performance,Physical Retailer
+538452,Female,26,7.2,Build muscle,4,2954.0,High protein,53.41,Electrolyte,9,651.79,Outerwear,Brand Website
+215294,Female,37,4.9,General health,1,1845.0,Whole foods,50.38,Protein shakes,7,707.36,Accessories,Brand Website
+559451,Male,20,6.1,Build muscle,1,2873.0,High protein,54.69,Protein shakes,7,693.68,Yoga,Physical Retailer
+748307,Male,34,7.5,Fat loss,5,1545.0,Whole foods,43.78,Protein shakes,15,677.1,Footwear,E-commerce Retailer
+165726,Other,26,6.9,Build muscle,2,2958.0,Whole foods,79.08,Fresh juice,16,719.83,Performance,Brand Website
+477812,Female,20,4.6,Flexibility,1,2096.0,Whole foods,48.01,Electrolyte,11,581.15,Yoga,E-commerce Retailer
+368246,Female,28,5.1,General health,4,1802.0,Whole foods,44.25,Fresh juice,8,682.47,Performance,Physical Retailer
+805696,Female,33,5.6,Endurance training,3,2027.0,High protein,48.65,Electrolyte,8,915.23,Performance,Physical Retailer
+218015,Female,20,8.0,Fat loss,2,1880.0,Low carb,34.13,Electrolyte,11,228.34,Outerwear,E-commerce Retailer
+840674,Other,34,7.2,Endurance training,5,2156.0,High protein,41.6,Protein shakes,9,671.71,Leisure,Physical Retailer
+354079,Female,23,6.1,Endurance training,4,2342.0,Vegan,52.94,Fresh juice,12,174.63,Outerwear,Physical Retailer
+650929,Female,23,7.4,Fat loss,3,1901.0,Vegan,40.1,Protein shakes,10,606.32,Performance,E-commerce Retailer
+789944,Female,19,7.4,Build muscle,4,2918.0,High protein,59.21,Protein shakes,10,654.34,Yoga,E-commerce Retailer
+788105,Male,25,5.9,Endurance training,2,2332.0,Vegan,42.44,Protein shakes,9,972.94,Leisure,E-commerce Retailer
+613758,Female,27,5.9,General health,5,2486.0,Whole foods,71.73,Protein shakes,13,624.13,Yoga,Physical Retailer
+465890,Male,29,6.3,Flexibility,3,1613.0,Whole foods,34.59,Energy drinks,10,858.99,Performance,Physical Retailer
+136631,Other,26,4.6,General health,1,2286.0,Vegan,48.09,Fresh juice,15,758.86,Performance,Physical Retailer
+866577,Female,25,7.4,Fat loss,3,1830.0,High protein,48.42,Fresh juice,13,318.21,Footwear,Physical Retailer
+172991,Male,31,8.9,Fat loss,5,1749.0,Low carb,29.35,Electrolyte,12,891.83,Outerwear,Physical Retailer
+373237,Male,37,7.2,Fat loss,3,1702.0,Low carb,37.63,Fresh juice,8,810.75,Outerwear,E-commerce Retailer
+118070,Female,18,7.9,Build muscle,4,2814.0,High protein,59.06,Protein shakes,7,567.59,Leisure,E-commerce Retailer
+922209,Male,26,5.8,Build muscle,4,2738.0,High protein,49.0,Fresh juice,8,944.33,Outerwear,E-commerce Retailer
+156958,Male,18,7.6,General health,4,2033.0,Whole foods,54.68,Electrolyte,11,652.14,Accessories,Brand Website
+182074,Male,30,3.7,General health,1,2102.0,High protein,37.18,Electrolyte,10,683.93,Performance,Brand Website
+635017,Female,32,8.7,Fat loss,5,1594.0,Low carb,39.59,Protein shakes,10,641.87,Footwear,E-commerce Retailer
+855073,Female,19,4.9,Flexibility,1,2152.0,High protein,37.8,Fresh juice,8,590.99,Yoga,Physical Retailer
+276089,Male,23,6.8,Build muscle,2,2833.0,High protein,55.87,Protein shakes,7,636.82,Performance,Physical Retailer
+297392,Male,33,4.8,Build muscle,0,2612.0,Low carb,44.16,Protein shakes,9,697.36,Performance,Brand Website
+258823,Male,38,5.0,Endurance training,1,2108.0,Vegan,40.17,Electrolyte,6,694.14,Leisure,Physical Retailer
+730152,Female,31,6.3,Build muscle,4,2861.0,High protein,60.24,Protein shakes,10,358.11,Accessories,Physical Retailer
+833429,Male,31,7.2,Build muscle,4,2788.0,Vegan,66.17,Protein shakes,9,813.08,Accessories,E-commerce Retailer
+598863,Female,23,6.4,Build muscle,1,2596.0,Whole foods,54.63,Protein shakes,11,613.18,Accessories,Physical Retailer
+467654,Male,28,4.9,General health,1,1815.0,Whole foods,50.08,Protein shakes,7,820.32,Performance,Physical Retailer
+679036,Female,25,6.5,Build muscle,5,2543.0,Low carb,59.69,Protein shakes,15,546.45,Accessories,E-commerce Retailer
+630089,Male,21,8.2,Fat loss,4,1941.0,High protein,39.24,Electrolyte,12,1000.1,Footwear,Physical Retailer
+250262,Male,24,7.4,Build muscle,4,2875.0,High protein,67.15,Protein shakes,9,916.66,Performance,Physical Retailer
+335362,Female,29,4.7,Build muscle,1,2889.0,High protein,48.9,Protein shakes,7,969.61,Leisure,E-commerce Retailer
+897079,Female,30,7.1,Build muscle,4,2898.0,Low carb,49.31,Electrolyte,13,745.43,Performance,Physical Retailer
+764076,Female,33,6.5,Fat loss,3,1759.0,Whole foods,41.78,Fresh juice,9,519.26,Footwear,E-commerce Retailer
+319963,Male,24,7.1,Build muscle,4,2811.0,High protein,59.25,Protein shakes,10,630.34,Outerwear,Brand Website
+580761,Male,21,9.7,Fat loss,6,1819.0,Low carb,37.79,Electrolyte,11,655.68,Outerwear,E-commerce Retailer
+348710,Female,29,5.7,Build muscle,3,2695.0,Whole foods,68.12,Protein shakes,11,396.04,Yoga,Brand Website
+320984,Male,23,6.7,Flexibility,4,1977.0,Whole foods,51.03,Fresh juice,15,785.73,Outerwear,E-commerce Retailer
+882355,Male,22,9.1,Build muscle,5,2594.0,High protein,55.13,Protein shakes,11,944.92,Accessories,Physical Retailer
+364512,Male,29,6.4,Build muscle,4,2555.0,High protein,46.47,Electrolyte,10,630.75,Leisure,Physical Retailer
+701863,Male,33,7.8,Fat loss,4,1531.0,Vegan,42.54,Electrolyte,8,990.87,Performance,Physical Retailer
+368799,Female,27,6.9,Flexibility,4,1730.0,High protein,33.49,Fresh juice,9,559.86,Accessories,Physical Retailer
+337549,Male,21,6.7,Build muscle,2,2871.0,High protein,62.68,Protein shakes,9,1117.6,Accessories,E-commerce Retailer
+694319,Male,24,7.3,Build muscle,2,2508.0,Whole foods,61.1,Electrolyte,12,738.31,Outerwear,Physical Retailer
+584299,Male,28,5.5,Build muscle,1,2690.0,Whole foods,65.93,Electrolyte,11,821.84,Yoga,Physical Retailer
+712210,Male,30,6.1,Build muscle,4,2860.0,High protein,53.89,Protein shakes,9,516.19,Outerwear,Brand Website
+548982,Male,37,7.2,Build muscle,4,2699.0,Vegan,53.31,Protein shakes,13,790.68,Accessories,E-commerce Retailer
+224046,Male,22,7.9,Fat loss,4,1833.0,Low carb,27.84,Electrolyte,10,834.27,Footwear,Brand Website
+506619,Female,26,4.9,Build muscle,2,2660.0,High protein,46.52,Protein shakes,9,436.12,Outerwear,Physical Retailer
+766326,Male,31,4.2,General health,2,1820.0,Whole foods,45.37,Protein shakes,12,658.02,Outerwear,Physical Retailer
+218834,Male,27,7.3,Build muscle,4,2940.0,Low carb,49.94,Protein shakes,12,1031.11,Performance,E-commerce Retailer
+193848,Female,30,4.0,Endurance training,1,2385.0,Vegan,42.49,Fresh juice,5,846.47,Accessories,Physical Retailer
+750429,Male,27,7.0,Build muscle,5,2750.0,High protein,61.43,Protein shakes,11,556.55,Footwear,Physical Retailer
+805660,Female,39,7.8,Fat loss,5,1887.0,Whole foods,52.25,Electrolyte,11,506.45,Performance,E-commerce Retailer
+384821,Female,22,7.9,Build muscle,2,2583.0,Low carb,52.13,Fresh juice,10,440.36,Leisure,Physical Retailer
+155609,Female,36,6.1,Endurance training,4,2433.0,Whole foods,68.11,Protein shakes,8,803.71,Performance,Physical Retailer
+327897,Male,22,7.2,General health,5,2170.0,Low carb,43.23,Fresh juice,11,527.14,Leisure,Physical Retailer
+131024,Female,31,4.3,Endurance training,1,2047.0,Low carb,40.45,Electrolyte,7,539.68,Performance,E-commerce Retailer
+170313,Male,30,7.2,Build muscle,5,2878.0,High protein,55.96,Protein shakes,9,590.93,Yoga,Physical Retailer
+489957,Male,25,5.3,Build muscle,1,2577.0,Whole foods,55.41,Protein shakes,9,827.62,Leisure,Physical Retailer
+284078,Male,31,6.1,Build muscle,1,2529.0,Whole foods,58.36,Electrolyte,11,810.36,Outerwear,Physical Retailer
+457429,Male,22,6.1,Build muscle,1,2784.0,High protein,54.95,Protein shakes,14,378.41,Performance,Physical Retailer
+561243,Other,29,5.6,Build muscle,3,2635.0,High protein,52.21,Protein shakes,7,732.57,Accessories,Brand Website
+103051,Female,21,6.5,Fat loss,0,1985.0,Low carb,43.85,Electrolyte,10,749.2,Footwear,Physical Retailer
+804107,Other,32,7.8,Fat loss,4,1781.0,High protein,36.12,Electrolyte,8,954.09,Footwear,Physical Retailer
+476836,Female,23,7.8,Fat loss,1,1549.0,Vegan,34.89,Protein shakes,11,189.3,Footwear,Physical Retailer
+821772,Female,35,4.4,General health,1,2159.0,Whole foods,48.39,Electrolyte,12,614.46,Leisure,E-commerce Retailer
+311810,Male,18,6.2,General health,4,2439.0,Whole foods,60.74,Fresh juice,8,572.81,Leisure,E-commerce Retailer
+827975,Female,23,6.8,Fat loss,3,1603.0,Low carb,30.13,Fresh juice,11,305.53,Footwear,Physical Retailer
+173523,Male,28,5.3,Build muscle,0,2753.0,High protein,64.54,Electrolyte,14,760.11,Footwear,Brand Website
+860463,Female,31,6.8,Build muscle,5,2594.0,High protein,51.66,Protein shakes,7,485.08,Accessories,Brand Website
+194476,Male,39,4.8,Endurance training,2,2336.0,Whole foods,62.22,Protein shakes,10,1004.54,Leisure,Brand Website
+333841,Male,30,4.9,Build muscle,1,2716.0,High protein,50.8,Protein shakes,9,734.24,Outerwear,Brand Website
+903451,Male,26,5.3,General health,4,2372.0,Whole foods,61.16,Fresh juice,7,891.74,Outerwear,E-commerce Retailer
+970045,Male,28,3.9,Build muscle,0,2979.0,High protein,61.38,Fresh juice,7,805.63,Performance,Physical Retailer
+322866,Other,24,5.4,Build muscle,1,2767.0,Whole foods,67.62,Fresh juice,9,980.86,Accessories,Physical Retailer
+186672,Female,20,8.5,Build muscle,5,2740.0,High protein,44.35,Protein shakes,12,694.0,Performance,E-commerce Retailer
+834994,Male,23,6.0,General health,4,2400.0,Whole foods,61.44,Protein shakes,9,898.46,Outerwear,E-commerce Retailer
+727769,Female,29,4.1,General health,2,2092.0,Low carb,29.19,Fresh juice,7,523.86,Leisure,E-commerce Retailer
+474710,Male,24,6.4,General health,1,1824.0,High protein,34.35,Electrolyte,7,522.78,Leisure,E-commerce Retailer
+650233,Male,26,7.3,General health,5,2071.0,Whole foods,54.49,Electrolyte,11,721.74,Outerwear,Brand Website
+108308,Other,25,5.1,Build muscle,1,2641.0,Whole foods,62.78,Electrolyte,9,596.55,Performance,E-commerce Retailer
+368093,Female,27,5.1,Build muscle,3,2633.0,Whole foods,65.35,Protein shakes,15,430.89,Performance,Physical Retailer
+283062,Male,18,5.4,Endurance training,1,2472.0,High protein,48.9,Protein shakes,8,772.03,Accessories,Physical Retailer
+494366,Female,37,7.0,Build muscle,4,2778.0,Whole foods,63.17,Electrolyte,12,750.64,Performance,Brand Website
+844840,Female,28,4.6,Build muscle,1,2625.0,Whole foods,51.46,Protein shakes,6,383.6,Performance,Physical Retailer
+200235,Male,28,5.6,Build muscle,3,2815.0,High protein,57.31,Protein shakes,8,759.71,Leisure,Brand Website
+478496,Female,22,5.3,Flexibility,2,1640.0,Low carb,28.21,Protein shakes,6,318.16,Yoga,E-commerce Retailer
+953049,Male,34,6.4,Build muscle,3,2855.0,High protein,48.41,Protein shakes,10,726.92,Outerwear,Physical Retailer
+850201,Male,22,7.6,Build muscle,4,2602.0,Whole foods,67.77,Electrolyte,10,467.36,Performance,Physical Retailer
+903328,Male,31,8.4,Fat loss,4,1725.0,Low carb,33.85,Protein shakes,12,673.69,Accessories,Physical Retailer
+277247,Male,26,5.1,Build muscle,1,2889.0,Whole foods,71.87,Protein shakes,7,609.91,Performance,Brand Website
+763165,Male,32,5.3,Flexibility,1,2074.0,Whole foods,60.23,Electrolyte,8,923.92,Yoga,Physical Retailer
+629525,Female,23,7.3,Build muscle,3,2793.0,Vegan,49.6,Protein shakes,11,716.2,Accessories,Brand Website
+120056,Male,25,7.3,Fat loss,4,1883.0,Low carb,33.41,Electrolyte,13,859.81,Footwear,Physical Retailer
+738836,Female,26,3.3,Endurance training,0,2179.0,Whole foods,43.49,Protein shakes,10,537.64,Outerwear,Physical Retailer
+506716,Male,25,5.5,Build muscle,0,2688.0,Whole foods,64.4,Electrolyte,9,850.41,Performance,Physical Retailer
+546438,Female,29,5.6,Build muscle,2,2507.0,Vegan,52.38,Protein shakes,9,509.71,Outerwear,E-commerce Retailer
+653663,Male,28,4.5,General health,3,2415.0,Low carb,41.27,Protein shakes,12,874.93,Leisure,E-commerce Retailer
+765022,Male,30,4.8,Build muscle,1,2724.0,Vegan,62.2,Electrolyte,8,932.67,Performance,Brand Website
+641252,Other,21,5.8,Build muscle,2,2533.0,Whole foods,56.29,Electrolyte,7,596.71,Leisure,Physical Retailer
+737717,Male,19,6.1,Build muscle,1,2735.0,High protein,55.84,Protein shakes,10,853.83,Performance,Physical Retailer
+352764,Female,20,6.0,Build muscle,0,2962.0,High protein,56.2,Protein shakes,8,160.5,Leisure,Brand Website
+814998,Other,33,4.7,Build muscle,1,2727.0,Whole foods,61.31,Protein shakes,6,785.1,Performance,E-commerce Retailer
+566882,Male,18,4.5,Flexibility,0,2199.0,Vegan,59.41,Fresh juice,9,671.64,Accessories,E-commerce Retailer
+840427,Female,20,9.6,Fat loss,4,1812.0,High protein,42.39,Electrolyte,16,524.08,Performance,E-commerce Retailer
+612153,Male,30,5.0,Endurance training,1,2482.0,Whole foods,62.91,Fresh juice,7,827.44,Accessories,E-commerce Retailer
+167215,Female,20,4.8,General health,1,2229.0,Whole foods,59.68,Protein shakes,8,904.93,Accessories,E-commerce Retailer
+955474,Female,30,7.5,Build muscle,4,2521.0,High protein,44.27,Fresh juice,17,39.62,Yoga,Physical Retailer
+244356,Female,28,7.9,Build muscle,6,2842.0,High protein,66.24,Protein shakes,10,686.85,Performance,Physical Retailer
+303861,Male,27,5.1,Build muscle,2,2539.0,High protein,37.24,Protein shakes,11,970.2,Performance,E-commerce Retailer
+554605,Female,20,5.2,Endurance training,1,2438.0,High protein,45.75,Protein shakes,7,625.59,Outerwear,Physical Retailer
+109435,Male,29,6.2,Build muscle,3,2678.0,Low carb,52.06,Protein shakes,7,968.33,Performance,Physical Retailer
+547556,Female,19,6.8,Build muscle,1,2585.0,Whole foods,64.7,Protein shakes,11,500.15,Outerwear,E-commerce Retailer
+799438,Male,27,6.2,Fat loss,3,1632.0,High protein,33.5,Fresh juice,8,697.98,Accessories,Brand Website
+675581,Male,26,4.7,General health,1,2324.0,Whole foods,51.16,Protein shakes,12,844.16,Leisure,E-commerce Retailer
+178781,Male,27,5.0,General health,1,2339.0,Whole foods,49.14,Electrolyte,12,856.05,Outerwear,E-commerce Retailer
+291475,Male,39,5.4,General health,1,2305.0,Low carb,45.99,Fresh juice,6,760.61,Footwear,E-commerce Retailer
+260196,Female,34,7.1,Build muscle,5,2583.0,Vegan,59.52,Protein shakes,12,805.41,Performance,Physical Retailer
+406063,Female,24,7.7,Build muscle,4,2817.0,Whole foods,65.59,Protein shakes,9,672.49,Yoga,E-commerce Retailer
+864121,Male,27,5.3,Endurance training,1,2348.0,High protein,49.97,Protein shakes,8,867.19,Performance,Physical Retailer
+876665,Female,24,6.6,Endurance training,3,2342.0,Whole foods,56.56,Fresh juice,13,636.43,Outerwear,Physical Retailer
+790607,Other,29,5.7,Build muscle,1,2779.0,High protein,60.53,Electrolyte,11,530.04,Leisure,Physical Retailer
+221172,Male,21,6.3,General health,4,2062.0,High protein,47.27,Electrolyte,10,979.73,Performance,Physical Retailer
+456902,Female,22,6.1,Flexibility,4,1665.0,Vegan,38.4,Electrolyte,7,464.02,Yoga,Physical Retailer
+584963,Male,37,6.0,Build muscle,1,2792.0,Whole foods,65.92,Protein shakes,11,994.98,Performance,Physical Retailer
+555968,Female,34,3.3,General health,0,2308.0,Whole foods,59.37,Electrolyte,8,1080.32,Yoga,Physical Retailer
+595972,Male,30,5.0,Fat loss,1,1669.0,Low carb,24.9,Protein shakes,9,982.24,Performance,Physical Retailer
+388790,Female,22,9.3,Fat loss,3,1585.0,Low carb,32.15,Protein shakes,11,580.54,Footwear,Physical Retailer
+647337,Male,36,4.8,General health,3,2247.0,Vegan,53.39,Fresh juice,13,570.71,Yoga,E-commerce Retailer
+834965,Male,19,6.3,General health,1,2489.0,Whole foods,55.48,Fresh juice,11,846.58,Performance,Brand Website
+983811,Male,22,8.3,Flexibility,5,2001.0,Vegan,52.03,Fresh juice,10,681.03,Outerwear,Physical Retailer
+692673,Female,18,6.9,Build muscle,1,2751.0,Whole foods,61.74,Protein shakes,13,899.38,Leisure,Physical Retailer
+533374,Male,29,6.0,Build muscle,4,2722.0,High protein,50.72,Protein shakes,11,795.8,Yoga,Physical Retailer
+820777,Male,30,6.0,Build muscle,2,2878.0,Low carb,60.37,Protein shakes,16,841.04,Outerwear,Physical Retailer
+647577,Female,28,5.9,Endurance training,4,2200.0,High protein,40.47,Protein shakes,12,674.81,Footwear,Physical Retailer
+472370,Male,36,6.0,Build muscle,1,2606.0,High protein,57.42,Protein shakes,9,960.39,Yoga,Physical Retailer
+987225,Male,26,5.3,Build muscle,1,2749.0,Low carb,50.52,Protein shakes,12,768.77,Performance,E-commerce Retailer
+371967,Male,26,5.5,Build muscle,0,2936.0,High protein,58.51,Protein shakes,10,681.84,Accessories,E-commerce Retailer
+291232,Male,28,5.6,Build muscle,3,2908.0,High protein,46.97,Protein shakes,8,833.94,Outerwear,Physical Retailer
+404119,Female,30,6.2,Build muscle,4,2588.0,Low carb,36.65,Electrolyte,9,700.38,Performance,Physical Retailer
+109540,Male,28,4.6,Build muscle,1,2624.0,Low carb,45.87,Protein shakes,11,850.27,Footwear,Physical Retailer
+497827,Female,27,4.6,Build muscle,1,2968.0,Vegan,55.93,Protein shakes,7,643.0,Accessories,Physical Retailer
+651951,Female,20,7.4,Endurance training,4,2136.0,Whole foods,48.54,Energy drinks,14,824.69,Performance,Physical Retailer
+151991,Male,29,5.2,Build muscle,2,2746.0,Whole foods,68.75,Protein shakes,10,835.24,Leisure,Physical Retailer
+288751,Female,37,5.6,Flexibility,3,1995.0,Whole foods,52.18,Fresh juice,12,638.57,Yoga,Physical Retailer
+466326,Female,31,5.7,General health,4,2477.0,Low carb,44.74,Fresh juice,8,903.68,Performance,Physical Retailer
+786337,Male,25,7.1,Build muscle,4,2649.0,High protein,57.26,Fresh juice,9,672.42,Performance,Brand Website
+718992,Female,29,6.4,General health,4,2142.0,Whole foods,47.44,Fresh juice,12,860.99,Performance,E-commerce Retailer
+453151,Male,37,7.2,Flexibility,5,1820.0,Whole foods,54.95,Fresh juice,12,667.0,Yoga,Physical Retailer
+843583,Male,31,5.5,Fat loss,0,1809.0,Vegan,40.02,Electrolyte,8,900.91,Accessories,Brand Website
+249143,Other,31,4.9,Endurance training,2,2019.0,Whole foods,42.35,Protein shakes,11,596.54,Outerwear,E-commerce Retailer
+814635,Female,34,5.7,Endurance training,3,2288.0,High protein,49.73,Electrolyte,12,531.0,Accessories,Physical Retailer
+636226,Male,32,6.3,Build muscle,3,2988.0,Whole foods,80.59,Protein shakes,10,542.74,Footwear,Brand Website
+453824,Female,22,6.5,General health,3,2291.0,Low carb,41.38,Fresh juice,9,481.62,Footwear,Physical Retailer
+825948,Male,22,8.8,Build muscle,5,2751.0,Whole foods,64.03,Protein shakes,14,927.79,Outerwear,Physical Retailer
+987474,Male,32,6.2,Build muscle,4,2969.0,Vegan,59.42,Fresh juice,10,937.23,Outerwear,E-commerce Retailer
+455754,Female,35,7.3,Build muscle,4,2576.0,Low carb,50.27,Protein shakes,10,415.01,Leisure,Physical Retailer
+990123,Female,25,5.1,Endurance training,1,2391.0,Vegan,56.31,Protein shakes,7,637.42,Footwear,E-commerce Retailer
+599522,Male,22,5.2,Endurance training,1,2411.0,Vegan,59.02,Protein shakes,7,790.98,Footwear,Brand Website
+591072,Male,28,7.5,Fat loss,4,1672.0,Low carb,33.25,Electrolyte,12,669.08,Performance,E-commerce Retailer
+138304,Male,24,6.5,Fat loss,1,1862.0,Whole foods,53.06,Electrolyte,10,661.98,Accessories,Physical Retailer
+604999,Male,25,5.8,Build muscle,4,2700.0,Vegan,55.58,Protein shakes,10,578.43,Performance,E-commerce Retailer
+924926,Female,32,3.6,Flexibility,1,1511.0,Vegan,24.32,Fresh juice,6,598.59,Accessories,Physical Retailer
+365517,Male,33,7.4,Fat loss,3,1879.0,Whole foods,42.58,Electrolyte,10,675.13,Performance,E-commerce Retailer
+767521,Female,32,6.9,Fat loss,4,1978.0,Low carb,38.67,Fresh juice,13,323.1,Accessories,E-commerce Retailer
+721820,Female,34,4.1,General health,2,2389.0,Whole foods,48.6,Electrolyte,12,797.55,Leisure,Physical Retailer
+485777,Male,27,3.9,Build muscle,0,2671.0,High protein,55.56,Protein shakes,6,563.42,Footwear,E-commerce Retailer
+724674,Female,32,5.9,Build muscle,3,2595.0,Whole foods,64.74,Protein shakes,10,798.39,Performance,E-commerce Retailer
+651638,Other,27,7.8,Build muscle,5,2805.0,High protein,51.12,Protein shakes,12,894.93,Yoga,Physical Retailer
+717296,Male,28,5.8,Endurance training,4,2372.0,High protein,54.24,Energy drinks,12,761.06,Leisure,E-commerce Retailer
+649639,Female,26,6.8,Build muscle,4,2918.0,High protein,58.7,Electrolyte,10,658.66,Performance,Physical Retailer
+712956,Female,22,8.4,Build muscle,5,2884.0,Whole foods,74.16,Protein shakes,15,696.95,Accessories,Brand Website
+738873,Other,30,6.0,Build muscle,1,2912.0,Whole foods,71.33,Energy drinks,12,1008.43,Accessories,E-commerce Retailer
+307869,Male,19,6.2,Build muscle,3,2563.0,Whole foods,62.03,Protein shakes,11,786.71,Accessories,Physical Retailer
+165953,Male,31,4.2,Endurance training,1,2131.0,Low carb,38.35,Protein shakes,12,902.71,Leisure,Brand Website
+943890,Male,33,5.4,Endurance training,3,2342.0,Whole foods,61.54,Electrolyte,10,638.46,Yoga,Brand Website
+600328,Female,32,6.6,General health,5,2118.0,High protein,55.13,Fresh juice,10,624.78,Accessories,Brand Website
+103267,Male,28,7.0,Flexibility,5,2120.0,Whole foods,52.78,Fresh juice,9,878.18,Yoga,Physical Retailer
+182745,Female,31,8.2,Fat loss,4,1772.0,Low carb,29.9,Protein shakes,7,302.14,Footwear,Physical Retailer
+924945,Female,32,5.7,Flexibility,3,1896.0,Vegan,38.59,Fresh juice,8,689.34,Leisure,Physical Retailer
+257164,Male,25,5.4,Build muscle,1,2679.0,Vegan,49.34,Protein shakes,8,736.78,Performance,E-commerce Retailer
+635626,Male,22,7.2,Build muscle,3,2557.0,Whole foods,66.48,Protein shakes,10,990.83,Accessories,Brand Website
+231484,Male,35,5.9,Build muscle,4,2979.0,High protein,67.06,Protein shakes,13,888.22,Performance,Physical Retailer
+631831,Male,33,6.9,Fat loss,4,1920.0,Low carb,40.52,Protein shakes,9,694.03,Outerwear,Physical Retailer
+992323,Male,27,7.8,Build muscle,5,2997.0,Whole foods,74.7,Protein shakes,10,804.84,Accessories,Brand Website
+320156,Male,26,8.7,Fat loss,4,1959.0,High protein,49.3,Protein shakes,12,772.61,Footwear,E-commerce Retailer
+323992,Male,26,5.7,Build muscle,2,2560.0,Low carb,42.43,Protein shakes,12,716.81,Performance,E-commerce Retailer
+616771,Male,31,6.3,Build muscle,1,2868.0,High protein,56.1,Protein shakes,14,976.21,Performance,Brand Website
+930857,Female,27,6.9,Fat loss,2,1620.0,High protein,32.42,Electrolyte,14,735.59,Accessories,Physical Retailer
+663044,Male,27,4.1,Build muscle,0,2706.0,Whole foods,58.33,Protein shakes,13,585.32,Leisure,E-commerce Retailer
+643176,Female,24,8.1,Build muscle,4,2533.0,Low carb,46.63,Protein shakes,12,533.8,Outerwear,Brand Website
+791095,Other,24,7.9,Fat loss,1,1569.0,Whole foods,47.16,Electrolyte,20,802.47,Footwear,Physical Retailer
+933727,Male,20,6.9,Fat loss,2,1516.0,Whole foods,42.46,Electrolyte,9,572.24,Footwear,E-commerce Retailer
+214352,Male,28,6.2,General health,4,2295.0,Whole foods,59.82,Fresh juice,11,806.93,Outerwear,E-commerce Retailer
+969474,Male,22,6.4,Fat loss,1,1996.0,High protein,41.78,Fresh juice,13,912.34,Performance,Physical Retailer
+185999,Female,21,9.3,Fat loss,4,1519.0,Low carb,35.12,Electrolyte,11,718.97,Accessories,Brand Website
+117955,Female,23,8.3,Fat loss,4,1956.0,High protein,37.85,Fresh juice,13,477.36,Footwear,Physical Retailer
+924273,Male,31,6.4,General health,3,2114.0,Whole foods,51.14,Electrolyte,13,771.03,Performance,E-commerce Retailer
+170640,Female,30,4.8,General health,1,1868.0,High protein,38.42,Fresh juice,13,647.55,Yoga,E-commerce Retailer
+296582,Male,31,5.8,General health,4,1960.0,Low carb,38.37,Electrolyte,11,803.93,Performance,Physical Retailer
+500573,Female,28,5.1,Build muscle,0,2875.0,High protein,55.14,Protein shakes,5,449.87,Performance,E-commerce Retailer
+525695,Male,38,5.6,Build muscle,3,2705.0,High protein,51.28,Protein shakes,10,693.73,Accessories,Physical Retailer
+161476,Female,27,4.9,Build muscle,1,2644.0,Low carb,63.33,Protein shakes,10,600.44,Performance,E-commerce Retailer
+406955,Male,27,3.7,Flexibility,1,2068.0,High protein,44.72,Fresh juice,10,578.3,Yoga,Physical Retailer
+775510,Male,32,6.1,General health,5,2184.0,Vegan,46.3,Protein shakes,18,633.73,Accessories,Physical Retailer
+695468,Male,33,5.6,Build muscle,4,2768.0,Whole foods,64.5,Protein shakes,7,564.45,Accessories,E-commerce Retailer
+514568,Female,30,6.1,Build muscle,1,2852.0,High protein,48.37,Electrolyte,13,871.52,Leisure,Physical Retailer
+286141,Female,26,6.0,Fat loss,1,1849.0,Whole foods,43.22,Energy drinks,8,571.28,Footwear,E-commerce Retailer
+998320,Female,22,8.8,Fat loss,4,1609.0,High protein,37.04,Protein shakes,9,683.7,Accessories,Brand Website
+734736,Other,23,5.6,General health,1,2282.0,Whole foods,54.63,Electrolyte,8,1041.77,Leisure,Physical Retailer
+278031,Female,25,6.5,Fat loss,1,1637.0,Whole foods,34.62,Electrolyte,10,681.22,Performance,E-commerce Retailer
+219180,Female,29,6.2,Fat loss,1,1550.0,High protein,29.1,Protein shakes,11,437.17,Footwear,Brand Website
+166234,Male,23,5.2,Build muscle,1,2902.0,High protein,64.0,Protein shakes,11,821.51,Outerwear,Physical Retailer
+664242,Male,21,8.3,General health,5,2362.0,Whole foods,60.44,Protein shakes,13,676.05,Performance,E-commerce Retailer
+278352,Female,33,4.1,General health,1,2275.0,High protein,48.65,Electrolyte,7,637.59,Leisure,Physical Retailer
+179459,Male,29,4.0,General health,1,1886.0,Whole foods,55.89,Fresh juice,13,1051.73,Leisure,E-commerce Retailer
+509995,Male,25,6.6,General health,5,1867.0,Whole foods,43.82,Electrolyte,12,789.05,Performance,E-commerce Retailer
+825256,Female,25,6.1,General health,3,1841.0,Whole foods,36.53,Protein shakes,10,463.59,Leisure,Physical Retailer
+159163,Female,19,7.3,Build muscle,4,2718.0,Vegan,57.29,Energy drinks,10,830.47,Accessories,Physical Retailer
+575853,Male,26,6.0,Build muscle,3,2556.0,Whole foods,66.72,Protein shakes,8,848.82,Performance,E-commerce Retailer
+151934,Male,27,7.6,Build muscle,4,2725.0,High protein,57.83,Electrolyte,8,964.94,Performance,E-commerce Retailer
+820255,Female,30,3.8,General health,1,1995.0,High protein,42.05,Electrolyte,5,384.87,Performance,Brand Website
+525523,Male,30,4.3,General health,1,2477.0,Vegan,49.86,Fresh juice,9,631.24,Accessories,Physical Retailer
+940530,Female,29,4.7,Build muscle,0,2561.0,High protein,46.58,Electrolyte,16,508.46,Leisure,Physical Retailer
+554137,Male,25,5.2,General health,3,2062.0,Whole foods,56.9,Energy drinks,11,799.48,Performance,Brand Website
+239407,Other,26,7.1,Build muscle,4,2752.0,High protein,56.69,Protein shakes,14,1002.46,Yoga,Physical Retailer
+750308,Female,31,6.6,General health,4,1977.0,High protein,48.17,Fresh juice,8,489.78,Performance,Physical Retailer
+727083,Female,26,7.1,Build muscle,5,2935.0,High protein,63.37,Protein shakes,16,316.11,Performance,E-commerce Retailer
+320184,Male,25,6.3,Endurance training,4,2025.0,High protein,35.01,Fresh juice,7,865.02,Leisure,Brand Website
+449652,Other,31,5.5,Fat loss,0,1745.0,Whole foods,46.56,Protein shakes,7,714.94,Yoga,Physical Retailer
+742612,Female,20,4.0,Endurance training,0,2264.0,Whole foods,51.86,Protein shakes,8,539.65,Yoga,Physical Retailer
+422710,Female,26,3.8,General health,1,2116.0,Whole foods,55.73,Fresh juice,12,786.61,Leisure,E-commerce Retailer
+297775,Female,26,3.6,General health,1,2331.0,Whole foods,56.26,Electrolyte,5,612.71,Outerwear,E-commerce Retailer
+389336,Female,27,7.5,General health,5,1905.0,High protein,40.55,Protein shakes,13,740.65,Accessories,Physical Retailer
+708364,Female,27,4.4,Build muscle,1,2805.0,High protein,52.13,Protein shakes,10,0.0,Performance,E-commerce Retailer
+189780,Female,26,8.4,Fat loss,4,1963.0,Low carb,46.95,Electrolyte,11,656.76,Footwear,E-commerce Retailer
+252617,Female,29,5.1,Build muscle,1,2745.0,High protein,49.55,Protein shakes,9,315.05,Yoga,E-commerce Retailer
+645977,Female,18,6.8,General health,4,1880.0,Whole foods,51.02,Fresh juice,11,557.51,Footwear,E-commerce Retailer
+897606,Female,33,6.3,Build muscle,4,2649.0,Vegan,63.86,Protein shakes,15,539.58,Accessories,Physical Retailer
+450605,Male,31,6.6,Fat loss,3,1896.0,Low carb,29.68,Energy drinks,12,832.48,Leisure,Brand Website
+989465,Female,21,6.5,Build muscle,1,2895.0,Low carb,51.25,Electrolyte,7,680.0,Footwear,Physical Retailer
+174460,Female,33,4.6,Build muscle,1,2648.0,Whole foods,62.4,Energy drinks,13,673.7,Performance,Brand Website
+464778,Male,33,7.4,General health,5,2073.0,Whole foods,48.89,Protein shakes,10,613.02,Leisure,E-commerce Retailer
+631089,Male,27,6.1,Fat loss,3,1931.0,Whole foods,54.25,Protein shakes,8,688.83,Footwear,Physical Retailer
+727438,Male,26,5.1,General health,4,1971.0,High protein,33.73,Electrolyte,11,921.16,Performance,Physical Retailer
+827627,Female,19,5.7,Build muscle,1,2764.0,High protein,48.29,Protein shakes,11,290.49,Outerwear,Physical Retailer
+279208,Female,32,5.3,Flexibility,4,1525.0,High protein,32.82,Fresh juice,7,640.79,Outerwear,Brand Website
+331915,Female,25,4.5,Flexibility,1,1975.0,Vegan,45.51,Fresh juice,11,287.01,Performance,E-commerce Retailer
+827952,Male,18,6.8,Build muscle,2,2855.0,Vegan,57.56,Protein shakes,11,731.72,Performance,E-commerce Retailer
+537477,Female,24,7.5,Flexibility,4,1533.0,Whole foods,38.37,Fresh juice,9,667.06,Leisure,Physical Retailer
+383821,Male,37,5.1,Fat loss,0,1637.0,High protein,32.17,Protein shakes,10,866.21,Footwear,Physical Retailer
+277804,Male,25,4.5,Build muscle,0,2803.0,High protein,48.26,Protein shakes,9,927.95,Performance,Physical Retailer
+805703,Male,18,6.3,Fat loss,1,1682.0,Low carb,23.71,Electrolyte,11,758.28,Footwear,E-commerce Retailer
+818216,Female,20,6.1,Build muscle,2,2741.0,High protein,58.71,Fresh juice,11,675.07,Performance,E-commerce Retailer
+455249,Male,28,5.9,Build muscle,1,2553.0,High protein,56.95,Protein shakes,8,806.56,Accessories,Brand Website
+319930,Male,25,6.2,Fat loss,3,1961.0,High protein,46.2,Energy drinks,10,983.42,Performance,Brand Website
+617313,Male,26,6.1,General health,3,2430.0,Whole foods,53.79,Fresh juice,11,876.88,Accessories,Physical Retailer
+619332,Male,27,6.4,General health,4,2206.0,Vegan,50.14,Protein shakes,7,939.58,Yoga,Physical Retailer
+416837,Male,33,6.2,Build muscle,5,2561.0,High protein,40.99,Electrolyte,11,700.87,Performance,E-commerce Retailer
+128295,Male,36,4.3,Flexibility,0,2098.0,Vegan,44.2,Fresh juice,8,798.21,Accessories,Physical Retailer
+113807,Other,18,5.7,Build muscle,1,2598.0,Whole foods,65.45,Protein shakes,8,887.84,Leisure,Physical Retailer
+535564,Male,44,3.8,Endurance training,0,2294.0,Whole foods,58.49,Electrolyte,10,876.2,Footwear,E-commerce Retailer
+338067,Female,32,5.8,Flexibility,2,1975.0,Vegan,44.81,Fresh juice,10,459.61,Performance,Brand Website
+585008,Female,22,6.5,General health,1,2391.0,Whole foods,59.42,Electrolyte,11,677.04,Performance,Physical Retailer
+792440,Female,28,4.3,Build muscle,1,2515.0,Low carb,48.37,Protein shakes,4,824.14,Performance,Brand Website
+494540,Male,38,5.2,Build muscle,1,2859.0,High protein,57.19,Protein shakes,9,731.04,Performance,Physical Retailer
+977699,Male,30,7.0,Build muscle,5,2986.0,Low carb,55.2,Protein shakes,10,749.14,Performance,Brand Website
+617923,Male,21,5.7,General health,1,2301.0,Whole foods,54.99,Electrolyte,14,814.4,Leisure,Physical Retailer
+266981,Female,26,5.1,Build muscle,0,2640.0,Low carb,48.05,Protein shakes,13,600.36,Performance,Brand Website
+844699,Male,35,3.9,General health,1,2419.0,Whole foods,59.97,Fresh juice,9,799.37,Accessories,Physical Retailer
+119870,Male,28,7.5,Build muscle,5,2802.0,High protein,57.77,Protein shakes,15,1055.8,Leisure,E-commerce Retailer
+303196,Female,29,5.6,Build muscle,1,2764.0,Whole foods,68.57,Protein shakes,11,659.04,Performance,E-commerce Retailer
+348683,Female,31,7.7,Fat loss,4,1946.0,High protein,47.9,Protein shakes,8,678.98,Yoga,Brand Website
+126790,Female,18,7.1,Build muscle,2,2708.0,Whole foods,63.37,Energy drinks,10,508.16,Outerwear,Physical Retailer
+743162,Other,36,4.8,Fat loss,1,1974.0,Whole foods,52.67,Fresh juice,9,504.31,Outerwear,E-commerce Retailer
+548345,Male,28,7.3,Build muscle,4,2664.0,High protein,48.38,Protein shakes,10,744.19,Outerwear,E-commerce Retailer
+849074,Male,25,5.0,Build muscle,1,2926.0,High protein,58.35,Protein shakes,8,842.13,Performance,Physical Retailer
+639773,Female,22,7.7,Fat loss,2,1819.0,Whole foods,40.86,Protein shakes,9,469.37,Footwear,E-commerce Retailer
+186188,Female,32,5.7,General health,3,2089.0,Whole foods,48.53,Fresh juice,10,437.06,Yoga,E-commerce Retailer
+842129,Female,25,5.9,Endurance training,4,2267.0,Whole foods,60.45,Fresh juice,11,529.23,Performance,Physical Retailer
+764795,Female,35,5.6,Fat loss,3,1650.0,Low carb,35.24,Fresh juice,7,1033.1,Leisure,Physical Retailer
+890141,Male,28,4.0,General health,0,2054.0,Whole foods,49.32,Fresh juice,7,764.73,Leisure,Physical Retailer
+748249,Male,26,7.4,Flexibility,5,1852.0,Whole foods,44.86,Electrolyte,9,696.61,Leisure,Physical Retailer
+130355,Male,27,4.9,General health,1,2176.0,Whole foods,46.13,Fresh juice,8,697.25,Outerwear,Physical Retailer
+811131,Male,38,6.8,Fat loss,5,1640.0,Low carb,39.6,Protein shakes,8,717.63,Footwear,Brand Website
+551015,Male,26,6.8,Fat loss,1,1842.0,High protein,41.56,Electrolyte,10,710.83,Outerwear,Physical Retailer
+506332,Male,20,7.2,General health,4,2157.0,High protein,41.05,Electrolyte,12,608.05,Performance,E-commerce Retailer
+256542,Male,21,7.8,Build muscle,4,2595.0,Whole foods,68.23,Protein shakes,14,631.37,Outerwear,E-commerce Retailer
+405062,Female,25,4.0,General health,1,2169.0,Vegan,44.06,Protein shakes,9,349.73,Outerwear,Physical Retailer
+938656,Female,32,4.9,Endurance training,1,2226.0,Whole foods,56.18,Protein shakes,8,513.8,Footwear,Brand Website
+601708,Female,30,4.4,Endurance training,2,2302.0,High protein,43.24,Fresh juice,9,653.68,Performance,Physical Retailer
+161629,Male,32,5.8,Fat loss,1,1992.0,Whole foods,46.96,Electrolyte,12,757.68,Footwear,E-commerce Retailer
+428184,Female,24,5.5,General health,1,2188.0,Whole foods,56.98,Electrolyte,10,737.13,Leisure,Physical Retailer
+592734,Male,25,4.5,Build muscle,1,2876.0,High protein,64.71,Protein shakes,9,670.34,Performance,Physical Retailer
+390160,Female,22,6.1,Flexibility,3,1617.0,Vegan,28.09,Fresh juice,5,737.35,Yoga,Brand Website
+920023,Male,18,6.9,Build muscle,1,2943.0,High protein,57.74,Electrolyte,10,677.95,Performance,E-commerce Retailer
+313920,Male,28,4.3,Flexibility,2,1851.0,Whole foods,41.77,Fresh juice,5,684.55,Yoga,Physical Retailer
+989765,Female,37,5.9,General health,3,2332.0,Whole foods,58.23,Energy drinks,10,428.45,Leisure,E-commerce Retailer
+342804,Male,27,4.9,Endurance training,3,2151.0,Whole foods,52.98,Protein shakes,12,602.68,Leisure,E-commerce Retailer
+476965,Male,29,6.4,General health,5,2439.0,High protein,41.01,Electrolyte,10,949.23,Accessories,E-commerce Retailer
+560857,Male,30,6.0,Build muscle,4,2623.0,Vegan,46.87,Fresh juice,12,719.92,Accessories,Physical Retailer
+922827,Female,20,6.8,General health,5,2457.0,Whole foods,62.2,Electrolyte,12,721.08,Accessories,Physical Retailer
+604492,Male,20,8.2,Fat loss,1,1776.0,Whole foods,47.2,Electrolyte,13,599.45,Performance,Brand Website
+753983,Male,26,5.9,General health,4,2193.0,Whole foods,51.93,Electrolyte,11,798.15,Performance,E-commerce Retailer
+515916,Female,32,7.1,Fat loss,2,1651.0,Vegan,29.59,Protein shakes,11,385.36,Yoga,E-commerce Retailer
+921052,Female,31,6.1,Endurance training,3,2359.0,Whole foods,60.31,Electrolyte,10,623.12,Performance,Physical Retailer
+858574,Male,34,8.2,Fat loss,5,1610.0,Low carb,39.48,Electrolyte,11,1020.76,Yoga,Physical Retailer
+228148,Male,31,7.8,Fat loss,4,1968.0,Low carb,40.1,Electrolyte,16,826.65,Accessories,Brand Website
+906991,Male,27,6.0,General health,4,2427.0,High protein,44.25,Fresh juice,7,680.8,Footwear,E-commerce Retailer
+292714,Male,25,7.7,Fat loss,3,1750.0,High protein,42.95,Protein shakes,10,994.8,Yoga,E-commerce Retailer
+375987,Male,18,5.9,General health,2,2381.0,Whole foods,56.91,Electrolyte,9,900.08,Leisure,Physical Retailer
+738353,Male,22,8.6,Fat loss,3,1911.0,High protein,35.16,Electrolyte,11,947.56,Performance,Physical Retailer
+117640,Male,24,5.7,Flexibility,0,1598.0,Whole foods,37.27,Fresh juice,9,667.15,Yoga,Physical Retailer
+924845,Male,30,3.9,General health,1,2462.0,Whole foods,56.66,Fresh juice,7,690.68,Outerwear,Physical Retailer
+359214,Female,31,5.1,Endurance training,3,2325.0,High protein,50.84,Fresh juice,6,360.16,Performance,Physical Retailer
+939070,Male,25,6.6,Fat loss,3,1963.0,Whole foods,47.51,Fresh juice,17,836.39,Accessories,Physical Retailer
+601108,Male,27,4.7,Build muscle,2,2501.0,Whole foods,68.72,Protein shakes,8,929.85,Footwear,Brand Website
+734421,Male,31,6.2,Fat loss,1,1651.0,Whole foods,44.25,Protein shakes,12,962.2,Footwear,E-commerce Retailer
+824226,Female,30,4.4,Endurance training,1,2364.0,Vegan,48.98,Electrolyte,10,532.9,Performance,Physical Retailer
+250159,Female,31,5.8,Fat loss,0,1564.0,Whole foods,39.49,Protein shakes,13,651.2,Performance,Brand Website
+255576,Male,31,8.7,Fat loss,5,1568.0,Low carb,31.32,Protein shakes,8,812.43,Performance,Physical Retailer
+986089,Male,22,5.9,General health,2,2420.0,Whole foods,54.49,Protein shakes,9,795.53,Performance,E-commerce Retailer
+645735,Other,22,7.8,Build muscle,3,2933.0,High protein,53.42,Protein shakes,11,632.19,Leisure,Physical Retailer
+386103,Male,22,6.6,Fat loss,1,1767.0,Whole foods,47.69,Electrolyte,12,573.42,Footwear,E-commerce Retailer
+260775,Male,36,5.5,Fat loss,1,1930.0,High protein,33.85,Fresh juice,6,698.45,Footwear,Physical Retailer
+109337,Male,24,9.0,Fat loss,4,1950.0,High protein,45.42,Fresh juice,13,743.84,Footwear,Physical Retailer
+614723,Male,23,8.3,Fat loss,4,1820.0,Whole foods,48.66,Fresh juice,11,719.97,Outerwear,E-commerce Retailer
+423673,Male,24,6.0,Build muscle,2,2910.0,Whole foods,65.39,Protein shakes,11,572.84,Performance,Physical Retailer
+464167,Female,24,8.2,Fat loss,4,1803.0,Low carb,37.11,Electrolyte,15,591.7,Footwear,E-commerce Retailer
+446809,Female,29,5.9,General health,3,1861.0,Whole foods,44.47,Fresh juice,11,794.1,Leisure,Physical Retailer
+730075,Male,29,5.1,General health,1,2099.0,Whole foods,47.48,Protein shakes,6,544.22,Leisure,Physical Retailer
+787281,Male,24,6.2,Build muscle,0,2902.0,Low carb,56.51,Electrolyte,8,674.78,Performance,E-commerce Retailer
+395451,Female,28,6.3,Build muscle,3,2942.0,High protein,50.31,Protein shakes,14,1064.52,Outerwear,Physical Retailer
+891267,Other,30,6.8,Build muscle,4,2607.0,Low carb,44.06,Protein shakes,8,744.39,Accessories,Physical Retailer
+644447,Male,25,4.9,Fat loss,1,1802.0,Low carb,29.55,Protein shakes,9,851.54,Performance,Brand Website
+597562,Female,32,4.8,Build muscle,1,2757.0,High protein,52.35,Protein shakes,13,456.43,Leisure,Physical Retailer
+802965,Other,20,5.3,General health,1,2052.0,High protein,42.59,Fresh juice,9,574.41,Performance,Physical Retailer
+992048,Male,26,4.9,Build muscle,1,2977.0,High protein,59.67,Electrolyte,11,797.31,Accessories,Physical Retailer
+965184,Male,21,6.8,General health,5,2168.0,High protein,53.28,Protein shakes,7,794.69,Performance,E-commerce Retailer
+419187,Female,24,6.5,Build muscle,1,2928.0,Vegan,53.72,Protein shakes,11,562.59,Accessories,E-commerce Retailer
+790907,Female,36,6.9,Fat loss,4,1659.0,Whole foods,46.98,Electrolyte,11,619.09,Outerwear,Physical Retailer
+182844,Female,23,6.5,General health,5,1965.0,Whole foods,51.38,Fresh juice,11,645.39,Outerwear,Physical Retailer
+651820,Female,24,7.5,Build muscle,5,2704.0,Whole foods,61.4,Protein shakes,11,256.21,Performance,Physical Retailer
+222402,Female,23,7.2,Build muscle,4,2637.0,Vegan,51.59,Protein shakes,11,609.33,Performance,Physical Retailer
+218012,Female,33,4.7,Build muscle,1,2867.0,High protein,58.58,Protein shakes,9,495.82,Accessories,E-commerce Retailer
+538661,Female,31,5.1,General health,4,2242.0,Whole foods,47.77,Fresh juice,13,433.13,Accessories,E-commerce Retailer
+680466,Male,26,7.5,Build muscle,4,2903.0,High protein,53.23,Fresh juice,9,643.15,Performance,Physical Retailer
+675278,Male,20,8.0,General health,7,1867.0,Whole foods,49.29,Electrolyte,13,1077.62,Performance,Physical Retailer
+944573,Female,28,6.5,Fat loss,1,1906.0,Low carb,39.78,Electrolyte,12,611.98,Performance,Brand Website
+517009,Male,25,6.3,Fat loss,1,1929.0,Low carb,36.62,Electrolyte,13,639.45,Performance,Brand Website
+418714,Male,22,9.8,Fat loss,5,1807.0,High protein,35.42,Fresh juice,13,903.02,Leisure,Brand Website
+326156,Male,28,6.0,Build muscle,4,2637.0,Vegan,67.43,Fresh juice,10,740.25,Accessories,E-commerce Retailer
+625303,Female,30,5.4,Fat loss,1,1911.0,Low carb,35.09,Electrolyte,8,217.77,Footwear,Physical Retailer
+127712,Male,32,4.2,General health,1,2482.0,Low carb,53.52,Protein shakes,8,642.83,Outerwear,E-commerce Retailer
+724785,Female,18,9.4,Build muscle,5,2653.0,High protein,54.55,Energy drinks,11,1004.43,Performance,E-commerce Retailer
+867214,Female,19,6.8,Fat loss,1,1682.0,High protein,37.45,Electrolyte,8,966.24,Performance,Physical Retailer
+212816,Male,32,7.5,Endurance training,5,2241.0,Vegan,44.76,Electrolyte,9,937.67,Performance,Physical Retailer
+228778,Female,29,6.2,Build muscle,4,2803.0,Whole foods,67.29,Electrolyte,8,243.58,Accessories,Physical Retailer
+686580,Male,32,6.0,Endurance training,4,2284.0,Whole foods,55.19,Electrolyte,11,703.26,Outerwear,Physical Retailer
+385977,Male,28,4.1,General health,1,1826.0,Vegan,39.81,Electrolyte,9,918.99,Performance,Physical Retailer
+818040,Male,23,6.6,Flexibility,4,1859.0,Whole foods,49.91,Fresh juice,10,1134.97,Leisure,E-commerce Retailer
+906741,Female,20,7.1,Fat loss,2,1559.0,High protein,34.93,Electrolyte,9,773.56,Accessories,Brand Website
+369114,Female,27,7.6,Build muscle,4,2701.0,High protein,48.64,Fresh juice,12,645.48,Performance,Brand Website
+434618,Female,20,6.4,Fat loss,1,1749.0,Whole foods,39.78,Electrolyte,11,422.03,Footwear,Brand Website
+932972,Male,35,5.8,Build muscle,1,2861.0,Vegan,57.7,Protein shakes,10,847.41,Yoga,E-commerce Retailer
+251456,Male,32,3.0,General health,0,2380.0,Whole foods,54.54,Electrolyte,6,699.42,Leisure,Physical Retailer
+904449,Female,18,5.0,General health,1,2169.0,Vegan,51.55,Electrolyte,9,739.41,Performance,Physical Retailer
+962312,Male,21,5.9,General health,0,2332.0,Whole foods,51.38,Fresh juice,11,476.96,Leisure,Brand Website
+205570,Male,25,5.9,Flexibility,2,1651.0,Vegan,35.13,Fresh juice,9,833.66,Footwear,Physical Retailer
+370846,Male,28,6.9,General health,5,1901.0,Low carb,41.65,Fresh juice,10,852.44,Performance,Brand Website
+100404,Female,20,5.5,Endurance training,0,2386.0,Whole foods,56.59,Energy drinks,8,685.18,Outerwear,Physical Retailer
+803286,Male,31,5.0,Build muscle,2,2987.0,High protein,60.07,Protein shakes,10,354.0,Performance,Brand Website
+374907,Female,23,6.2,Fat loss,1,1594.0,High protein,32.95,Protein shakes,9,443.14,Accessories,E-commerce Retailer
+815460,Male,24,6.9,General health,4,2028.0,High protein,40.88,Fresh juice,10,843.75,Performance,E-commerce Retailer
+984574,Male,29,8.1,Fat loss,4,1624.0,Vegan,41.48,Fresh juice,12,843.4,Footwear,Physical Retailer
+335365,Female,23,7.7,Build muscle,4,2821.0,High protein,55.12,Electrolyte,9,502.67,Leisure,Brand Website
+442786,Female,31,6.8,Build muscle,5,2986.0,High protein,60.67,Protein shakes,11,597.96,Outerwear,Physical Retailer
+150612,Female,30,5.9,Fat loss,2,1868.0,High protein,41.01,Protein shakes,11,612.68,Performance,Physical Retailer
+910006,Male,22,7.6,Fat loss,1,1925.0,Low carb,45.31,Energy drinks,9,871.21,Footwear,Physical Retailer
+909956,Male,37,5.0,Endurance training,1,2235.0,High protein,42.27,Protein shakes,7,856.63,Performance,E-commerce Retailer
+897348,Male,26,5.8,Endurance training,2,2041.0,High protein,38.08,Electrolyte,8,1074.61,Leisure,E-commerce Retailer
+104809,Male,27,5.7,Build muscle,3,2775.0,High protein,61.15,Electrolyte,10,873.98,Outerwear,Brand Website
+263273,Male,23,8.7,Build muscle,5,2852.0,Whole foods,75.22,Electrolyte,14,654.75,Performance,Physical Retailer
+244528,Female,21,8.5,Fat loss,4,1672.0,High protein,38.43,Protein shakes,10,934.85,Footwear,Physical Retailer
+606964,Female,27,5.5,Build muscle,0,2991.0,Whole foods,71.44,Protein shakes,10,419.82,Performance,Physical Retailer
+549613,Male,19,7.4,Build muscle,2,2830.0,High protein,59.99,Protein shakes,13,963.39,Outerwear,Brand Website
+138765,Female,42,5.9,Build muscle,5,2624.0,Whole foods,62.64,Electrolyte,8,248.01,Performance,E-commerce Retailer
+646237,Other,24,7.9,General health,5,2016.0,Low carb,43.72,Fresh juice,9,647.34,Accessories,Physical Retailer
+301152,Female,32,5.8,Build muscle,1,2804.0,Vegan,58.19,Protein shakes,10,361.41,Accessories,E-commerce Retailer
+192193,Male,19,6.1,Endurance training,3,2200.0,High protein,52.1,Protein shakes,9,893.72,Outerwear,Physical Retailer
+136187,Male,27,6.3,Endurance training,6,2453.0,Whole foods,58.01,Energy drinks,11,920.74,Leisure,E-commerce Retailer
+605950,Female,23,9.3,Fat loss,4,1901.0,Low carb,46.81,Fresh juice,13,886.73,Outerwear,Physical Retailer
+238311,Male,28,8.4,Fat loss,4,1961.0,Low carb,43.54,Electrolyte,12,916.82,Performance,Brand Website
+900921,Female,30,5.7,Build muscle,1,2774.0,High protein,53.72,Electrolyte,11,732.43,Outerwear,Physical Retailer
+608153,Female,24,8.0,Build muscle,4,2705.0,High protein,46.02,Protein shakes,16,300.27,Yoga,Physical Retailer
+289089,Male,22,6.4,Build muscle,1,2539.0,Whole foods,62.15,Protein shakes,9,603.13,Performance,E-commerce Retailer
+412066,Female,29,4.5,Build muscle,1,2854.0,Whole foods,75.76,Protein shakes,10,458.94,Performance,Physical Retailer
+718362,Male,22,7.3,General health,5,1892.0,Whole foods,44.99,Electrolyte,13,918.67,Outerwear,Physical Retailer
+661419,Female,22,5.4,Flexibility,0,1964.0,Whole foods,52.34,Electrolyte,10,464.3,Outerwear,E-commerce Retailer
+960395,Male,27,6.0,General health,3,1906.0,Whole foods,50.18,Fresh juice,9,966.61,Performance,Brand Website
+731172,Female,32,4.7,General health,0,2127.0,Low carb,29.14,Protein shakes,8,622.08,Performance,Physical Retailer
+225917,Female,28,6.7,Fat loss,3,1564.0,High protein,32.73,Electrolyte,10,839.44,Footwear,Physical Retailer
+910717,Male,32,5.7,Build muscle,1,2864.0,High protein,50.33,Electrolyte,11,768.22,Footwear,Physical Retailer
+399770,Male,30,4.5,Flexibility,1,1983.0,Whole foods,47.2,Protein shakes,10,730.01,Footwear,Physical Retailer
+798168,Female,32,6.5,Fat loss,1,1634.0,Low carb,37.06,Protein shakes,8,443.67,Footwear,Physical Retailer
+581680,Male,21,7.7,Fat loss,1,1993.0,High protein,43.56,Electrolyte,12,791.62,Footwear,Brand Website
+381342,Female,18,7.2,Build muscle,4,2888.0,High protein,63.48,Protein shakes,9,763.72,Performance,E-commerce Retailer
+144238,Male,23,8.0,General health,7,2339.0,Whole foods,52.54,Electrolyte,9,780.61,Yoga,E-commerce Retailer
+101252,Female,22,6.2,Endurance training,1,2061.0,Whole foods,38.73,Electrolyte,11,336.84,Accessories,Brand Website
+926196,Male,32,5.9,Build muscle,4,2990.0,Vegan,63.77,Electrolyte,14,683.5,Performance,Physical Retailer
+964141,Male,23,5.5,Build muscle,1,2772.0,High protein,53.23,Protein shakes,7,941.24,Outerwear,Physical Retailer
+415826,Male,27,7.4,Fat loss,2,1519.0,Whole foods,31.59,Fresh juice,13,773.83,Outerwear,Physical Retailer
+421638,Female,31,6.6,Build muscle,5,2502.0,High protein,46.64,Electrolyte,7,691.66,Leisure,E-commerce Retailer
+427359,Female,19,7.1,Build muscle,1,2717.0,High protein,57.92,Protein shakes,10,958.9,Outerwear,E-commerce Retailer
+702875,Female,21,6.3,Build muscle,1,2898.0,High protein,58.15,Protein shakes,17,908.97,Yoga,E-commerce Retailer
+106949,Female,24,6.2,Endurance training,1,2306.0,Whole foods,64.89,Electrolyte,8,720.82,Performance,E-commerce Retailer
+417537,Male,22,6.3,General health,1,1935.0,High protein,44.28,Protein shakes,12,938.37,Performance,Physical Retailer
+828913,Female,29,4.5,General health,0,2314.0,Whole foods,55.9,Electrolyte,10,753.09,Leisure,E-commerce Retailer
+762301,Female,23,7.1,General health,4,1992.0,Low carb,42.02,Fresh juice,15,895.54,Performance,Physical Retailer
+555102,Male,28,6.7,Build muscle,4,2860.0,Whole foods,71.19,Protein shakes,8,854.78,Leisure,Physical Retailer
+437889,Female,22,8.4,Fat loss,3,1617.0,Low carb,30.0,Protein shakes,8,583.37,Footwear,Physical Retailer
+576467,Female,35,5.4,General health,3,2465.0,Whole foods,59.72,Electrolyte,8,764.68,Performance,Physical Retailer
+456600,Female,31,4.3,General health,1,2008.0,Whole foods,47.42,Fresh juice,7,789.13,Footwear,Physical Retailer
+415557,Female,25,6.4,General health,4,1833.0,Whole foods,48.81,Electrolyte,7,700.87,Accessories,Physical Retailer
+983671,Female,28,5.5,Flexibility,4,2148.0,Vegan,40.39,Fresh juice,6,491.74,Performance,E-commerce Retailer
+404462,Male,32,4.8,General health,1,2117.0,Vegan,44.97,Fresh juice,12,668.28,Leisure,Physical Retailer
+350875,Male,24,7.0,Build muscle,1,2619.0,High protein,54.72,Protein shakes,14,652.26,Performance,Physical Retailer
+563389,Male,20,8.8,Build muscle,4,2614.0,Vegan,58.18,Protein shakes,13,782.93,Performance,Physical Retailer
+170390,Male,29,3.7,Endurance training,1,2012.0,Whole foods,54.96,Protein shakes,10,864.95,Footwear,Physical Retailer
+807689,Female,32,5.5,Build muscle,2,2568.0,Whole foods,66.05,Electrolyte,5,723.71,Footwear,Physical Retailer
+353490,Male,28,7.4,Build muscle,4,2924.0,Whole foods,71.67,Protein shakes,12,688.6,Performance,E-commerce Retailer
