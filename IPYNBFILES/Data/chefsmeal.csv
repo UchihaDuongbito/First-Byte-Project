@@ -1,0 +1,1001 @@
+Customer ID,Gender,Age,Hours at Gym (per week),Fitness Goal,Calorie Intake,Dietary Preferences,Average Spend per Meal Order
+221958,Female,27,7.3,Build muscle,,Whole foods,67.15
+771155,Female,24,6.2,Endurance training,2173.0,Whole foods,52.94
+231932,Male,22,7.4,Fat loss,1752.0,Whole foods,38.13
+465838,Female,23,6.0,Build muscle,2884.0,High protein,61.44
+359178,Female,18,9.3,Build muscle,2559.0,Whole foods,69.78
+744167,Male,23,5.7,Flexibility,1606.0,Whole foods,44.64
+210268,Male,30,5.5,Build muscle,2719.0,Whole foods,62.43
+832180,Female,26,6.9,Fat loss,1940.0,High protein,36.91
+154886,Male,32,7.0,Fat loss,,Vegan,33.42
+237337,Male,24,,Build muscle,2870.0,Whole foods,69.31
+621430,Female,31,5.4,Build muscle,,Vegan,50.5
+187498,Male,29,5.8,Build muscle,2551.0,Low carb,40.84
+999159,Male,25,4.4,General health,2371.0,Whole foods,54.75
+275203,Male,24,7.3,Fat loss,1533.0,Low carb,28.69
+291335,Female,26,,Endurance training,2095.0,Whole foods,48.53
+378167,Male,30,4.3,Flexibility,1588.0,Vegan,36.74
+141090,Female,29,,General health,2030.0,Whole foods,49.91
+429365,Male,28,6.699999999999999,Fat loss,1955.0,High protein,39.11
+164820,Female,22,7.0,Fat loss,1774.0,Low carb,35.79
+887201,Male,22,6.5,Endurance training,2245.0,Whole foods,50.75
+421879,Female,25,3.9,Endurance training,2110.0,Whole foods,51.12
+818315,Male,24,7.4,Fat loss,1733.0,Low carb,35.27
+427069,Other,29,5.1,Endurance training,,Whole foods,47.8
+876997,Female,21,8.600000000000001,Build muscle,2976.0,Whole foods,78.82
+299041,Male,26,5.6,Fat loss,1916.0,High protein,34.56
+891743,Female,25,5.699999999999999,Build muscle,2665.0,High protein,52.98
+203355,Male,44,7.3,Build muscle,2627.0,High protein,58.95
+335796,Male,31,5.7,Build muscle,2736.0,High protein,58.44
+314176,Male,23,5.9,Endurance training,2493.0,Whole foods,60.98
+284779,Male,19,8.7,Fat loss,1790.0,Whole foods,45.42
+447449,Male,29,6.2,Build muscle,2606.0,Whole foods,68.33
+521909,Male,21,6.2,Fat loss,1627.0,High protein,37.62
+358795,Female,20,7.800000000000001,Fat loss,1694.0,High protein,33.64
+586232,Male,24,8.2,Build muscle,2838.0,Low carb,49.41
+600186,Male,25,3.6,Endurance training,2393.0,Whole foods,46.36
+256730,Male,27,4.5,General health,2274.0,Low carb,41.89
+970910,Male,34,5.9,General health,2454.0,Whole foods,59.52
+484681,Male,32,4.6,Endurance training,2394.0,Whole foods,63.23
+249503,Female,28,6.4,Fat loss,1610.0,Low carb,33.48
+754811,Male,27,7.2,Build muscle,2589.0,Whole foods,70.68
+627035,Male,28,7.7,Build muscle,2750.0,High protein,52.17
+748143,Male,30,5.3,Build muscle,2779.0,Whole foods,72.46
+552366,Male,31,5.0,Flexibility,1832.0,Vegan,37.08
+165725,Female,22,8.6,Build muscle,2723.0,High protein,59.78
+229981,Male,24,7.1,Build muscle,2600.0,Whole foods,56.89
+184654,Female,21,,General health,1931.0,Whole foods,49.18
+691723,Other,40,5.8,Flexibility,1512.0,Whole foods,28.74
+419030,Male,37,6.4,General health,2256.0,Vegan,47.78
+428947,Female,27,5.5,Build muscle,2940.0,High protein,59.52
+655839,Male,29,5.1000000000000005,Build muscle,2996.0,High protein,55.4
+373538,Female,33,6.2,Build muscle,2597.0,,46.45
+431236,Male,20,6.8,Build muscle,2619.0,Vegan,60.74
+628178,Female,27,6.4,Build muscle,2792.0,High protein,54.86
+665894,Male,18,8.5,Fat loss,1803.0,Low carb,34.1
+589492,Male,20,4.6,Flexibility,1500.0,Whole foods,37.64
+356840,Male,23,7.199999999999999,Build muscle,2559.0,Whole foods,76.52
+573254,Female,29,,Endurance training,2249.0,Whole foods,60.61
+449457,Female,25,4.3,Endurance training,2139.0,Whole foods,57.38
+765987,Female,22,8.4,Build muscle,2648.0,High protein,
+370936,Male,27,5.3,Endurance training,2394.0,Whole foods,58.94
+339931,Female,29,6.2,Build muscle,2543.0,High protein,38.75
+339629,Male,26,7.7,Build muscle,2870.0,High protein,54.43
+305041,Male,18,5.1,General health,2497.0,High protein,46.62
+798361,Male,23,8.7,Build muscle,2607.0,Vegan,48.42
+831912,Female,30,,Flexibility,1543.0,Vegan,28.54
+517113,Male,29,4.5,Build muscle,2577.0,High protein,40.08
+168148,Female,22,7.699999999999999,Fat loss,1725.0,Whole foods,44.78
+877089,Female,21,7.1,Fat loss,1661.0,Low carb,37.18
+748531,Male,33,6.3,Build muscle,2780.0,High protein,
+351995,Male,32,,Build muscle,2752.0,High protein,56.81
+778843,Male,29,5.9,Endurance training,2131.0,Whole foods,47.85
+672843,Male,27,5.8,General health,2247.0,High protein,35.43
+356508,Male,21,4.8,General health,2273.0,Whole foods,46.2
+903591,Male,41,7.2,Fat loss,1643.0,Low carb,26.52
+996942,Female,20,6.2,General health,1908.0,,43.45
+206530,Male,32,6.3,Endurance training,2193.0,Whole foods,53.58
+704365,Female,30,6.8,General health,1834.0,Whole foods,41.63
+922352,Female,29,5.699999999999999,Fat loss,1966.0,High protein,41.64
+560337,Female,33,3.8,Endurance training,2389.0,Low carb,41.3
+824839,Female,22,6.0,General health,2074.0,Low carb,39.07
+905889,Female,23,7.0,Build muscle,2686.0,High protein,59.65
+559773,Male,27,6.4,General health,2042.0,Low carb,32.91
+308261,Male,21,8.2,Fat loss,1763.0,Low carb,37.74
+864469,Female,34,7.2,Build muscle,2961.0,Low carb,54.55
+441097,Female,29,7.6,Build muscle,2509.0,Vegan,53.34
+415139,Male,29,7.800000000000001,Build muscle,2950.0,High protein,63.77
+271829,Male,25,5.8,Fat loss,1665.0,Vegan,41.5
+371836,Male,20,,General health,2340.0,Vegan,45.3
+538974,Female,32,6.1,Build muscle,2770.0,High protein,53.83
+302283,Male,23,5.2,General health,1886.0,,48.0
+296769,Male,33,6.0,General health,2334.0,High protein,45.45
+661353,Male,25,6.6,Build muscle,2709.0,,56.97
+323165,Male,26,4.9,General health,1845.0,Whole foods,46.84
+723587,Female,26,4.9,Flexibility,1966.0,Whole foods,57.32
+635822,Male,29,5.1,General health,2339.0,Whole foods,49.06
+587879,Female,19,6.2,General health,1825.0,High protein,37.2
+664685,Male,27,4.4,Flexibility,1765.0,Whole foods,
+882038,Female,32,4.0,Endurance training,2174.0,Whole foods,55.14
+453531,Male,26,4.7,Build muscle,2503.0,Vegan,44.48
+363160,Male,33,,General health,2110.0,Whole foods,53.45
+679879,Female,26,4.3,Endurance training,2321.0,Whole foods,52.51
+320884,Other,27,6.1,Fat loss,1566.0,High protein,29.4
+123247,Female,32,5.5,Build muscle,2634.0,Low carb,40.63
+124300,Female,23,7.5,General health,1854.0,Whole foods,45.39
+567281,Female,40,3.7,Build muscle,2963.0,Low carb,57.27
+707086,Male,35,5.5,Flexibility,2042.0,Whole foods,50.22
+633556,Other,20,7.2,Build muscle,2573.0,Whole foods,66.79
+448951,Male,20,,Build muscle,2518.0,Whole foods,70.26
+374329,Female,36,6.9,Fat loss,1655.0,Whole foods,44.08
+819064,Female,29,6.6,Build muscle,2836.0,Whole foods,66.3
+842139,Female,18,5.7,Endurance training,2155.0,Whole foods,
+532315,Male,28,4.6,Flexibility,1646.0,,30.59
+616588,Male,25,,General health,2284.0,Low carb,38.76
+336584,Female,25,6.6,Build muscle,2586.0,High protein,44.23
+662332,Male,30,5.8999999999999995,Build muscle,2519.0,Whole foods,66.03
+937646,Other,30,5.3,General health,2068.0,Whole foods,48.84
+476896,Female,34,7.0,Flexibility,1832.0,Whole foods,47.73
+148984,Male,28,8.8,Fat loss,1542.0,High protein,29.62
+402918,Female,31,6.800000000000001,Fat loss,1894.0,High protein,41.71
+364712,Male,21,7.1,Build muscle,,Whole foods,67.82
+220151,Female,24,7.9,General health,2200.0,High protein,45.21
+555808,Female,23,5.9,Endurance training,2437.0,Vegan,56.63
+233767,Male,31,4.7,Build muscle,2805.0,High protein,58.2
+748663,Male,30,6.2,Build muscle,2527.0,High protein,50.34
+803550,Female,41,3.4,General health,2266.0,Whole foods,44.86
+236330,Male,21,5.8999999999999995,Build muscle,2759.0,High protein,69.35
+580754,Female,26,5.1,Build muscle,2521.0,Low carb,54.41
+401648,Male,31,8.3,Fat loss,1969.0,High protein,45.7
+788519,Male,19,7.4,Build muscle,2874.0,Whole foods,66.82
+113986,Male,19,,Build muscle,2600.0,High protein,
+686146,Male,34,5.5,General health,2350.0,Whole foods,54.56
+229312,Male,21,5.3,General health,2152.0,Whole foods,58.98
+112666,Female,32,,General health,2099.0,Low carb,39.23
+400804,Male,34,5.3,General health,2481.0,Whole foods,56.14
+234633,Male,22,10.3,Fat loss,1795.0,Low carb,
+388998,Male,29,3.7,General health,2152.0,Whole foods,56.99
+950937,Male,29,6.1000000000000005,Build muscle,2895.0,High protein,64.99
+728776,Male,25,4.0,Endurance training,2129.0,Whole foods,58.74
+807611,Female,27,3.9,Flexibility,,Whole foods,44.14
+384806,Female,31,3.9000000000000004,Build muscle,2573.0,High protein,48.17
+894824,Male,26,4.9,Build muscle,2841.0,High protein,38.85
+130535,Female,20,8.6,Fat loss,1964.0,Whole foods,52.56
+475713,Female,29,5.5,Build muscle,2589.0,Vegan,
+938688,Male,22,8.6,Build muscle,2566.0,Whole foods,65.31
+451279,Female,30,5.2,General health,2254.0,Whole foods,55.14
+921654,Other,21,,Flexibility,1831.0,Whole foods,39.05
+701661,Male,21,6.1,Fat loss,1726.0,Low carb,36.15
+747972,Male,25,,Build muscle,2964.0,High protein,61.87
+589570,Female,34,4.7,Build muscle,2847.0,Vegan,62.69
+556551,Female,31,5.2,General health,2032.0,Whole foods,54.61
+373109,Male,22,9.1,Fat loss,1765.0,Low carb,39.42
+124538,Female,18,8.0,Build muscle,2585.0,High protein,50.88
+994498,Female,28,5.699999999999999,Fat loss,1601.0,Low carb,30.62
+301664,Female,29,6.0,Build muscle,2940.0,Low carb,53.77
+591234,Female,30,7.2,Fat loss,1980.0,Whole foods,50.85
+999684,Female,33,3.9,General health,2013.0,Whole foods,53.4
+239182,Male,25,7.8,Fat loss,1607.0,High protein,38.38
+572525,Male,31,7.1,Endurance training,2164.0,Whole foods,64.76
+258338,Female,25,5.300000000000001,Build muscle,2960.0,Whole foods,
+284064,Female,32,5.8,General health,2402.0,Whole foods,59.08
+314020,Male,31,4.5,Endurance training,2191.0,Whole foods,33.71
+723094,Female,21,7.4,Build muscle,2834.0,Whole foods,75.87
+997421,Female,27,,Fat loss,1585.0,High protein,31.43
+715270,Male,31,4.2,Build muscle,2721.0,High protein,48.33
+745914,Female,39,5.3,General health,2223.0,Whole foods,52.27
+219176,Female,21,7.199999999999999,Fat loss,1600.0,High protein,32.33
+318126,Female,28,5.5,Flexibility,1863.0,High protein,41.0
+318969,Male,32,7.0,Build muscle,2559.0,Whole foods,55.38
+222409,Male,33,3.1,General health,2281.0,Whole foods,48.41
+647707,Female,25,4.3,Endurance training,2249.0,High protein,45.64
+353618,Male,27,6.7,General health,2359.0,Whole foods,61.55
+869598,Male,37,4.2,Build muscle,2616.0,Vegan,57.58
+150015,Male,29,6.8999999999999995,Fat loss,1726.0,Low carb,30.06
+872838,Male,32,6.9,General health,2344.0,Whole foods,53.37
+222096,Male,18,9.100000000000001,Build muscle,2543.0,High protein,50.52
+731347,Male,20,6.8,Build muscle,2975.0,High protein,60.19
+285340,Male,36,5.7,Fat loss,1664.0,High protein,41.94
+210687,Male,18,8.7,Fat loss,,Low carb,27.53
+974371,Female,23,7.2,Build muscle,2844.0,Low carb,51.58
+511357,Female,25,5.3999999999999995,Build muscle,2791.0,Whole foods,60.45
+835716,Male,33,4.5,Build muscle,2836.0,Whole foods,59.15
+205878,Female,21,5.8,General health,2085.0,Whole foods,56.39
+827270,Male,28,3.6,Endurance training,2203.0,,55.17
+298286,Female,24,8.3,General health,2483.0,High protein,53.58
+873290,Female,18,5.7,Flexibility,2023.0,High protein,45.58
+874684,Other,31,7.4,Fat loss,,Whole foods,44.16
+264899,Female,25,,Build muscle,2620.0,High protein,50.68
+424767,Female,32,5.8,Build muscle,2932.0,High protein,68.34
+961882,Female,21,5.7,Build muscle,2743.0,Vegan,56.82
+979858,Male,22,6.5,Flexibility,2163.0,Vegan,51.05
+479989,Male,24,6.3,Fat loss,1651.0,Whole foods,
+515515,Female,42,5.9,Build muscle,2687.0,High protein,43.84
+143585,Male,26,6.8,Build muscle,2894.0,,47.31
+471369,Female,30,6.7,Fat loss,1512.0,Low carb,27.41
+164044,Male,25,3.6,Endurance training,2090.0,Whole foods,55.19
+542296,Male,32,6.0,Build muscle,,High protein,57.32
+209556,Male,29,6.5,Flexibility,2085.0,Vegan,50.43
+626981,Male,33,5.5,Fat loss,1755.0,Whole foods,38.95
+981691,Female,20,,Build muscle,2955.0,Whole foods,80.41
+867595,Male,22,,General health,2247.0,Low carb,37.37
+300235,Male,34,6.7,Build muscle,2775.0,High protein,56.37
+125939,Male,31,4.0,Flexibility,1570.0,Vegan,33.76
+252906,Male,32,5.6,Flexibility,2089.0,Whole foods,50.61
+642335,Female,25,5.5,General health,1929.0,Whole foods,
+388249,Male,32,4.8,General health,1842.0,Low carb,30.71
+175766,Female,24,8.6,Build muscle,2507.0,Whole foods,56.54
+508923,Female,28,4.3,Flexibility,1512.0,Vegan,33.02
+515192,Female,31,6.4,Fat loss,1712.0,High protein,33.94
+668550,Female,20,6.5,General health,2422.0,High protein,65.68
+487261,Female,21,6.5,Flexibility,2034.0,Vegan,48.25
+910208,Other,38,5.9,Flexibility,1801.0,Vegan,37.79
+785440,Male,31,,General health,2326.0,High protein,39.71
+752664,Male,28,6.4,Build muscle,2629.0,Vegan,46.98
+554589,Male,24,4.7,Flexibility,2072.0,Vegan,39.04
+237848,Male,25,5.1,Endurance training,2114.0,Whole foods,52.22
+717075,Female,25,4.5,Flexibility,1959.0,Vegan,48.94
+227948,Female,25,7.1,Endurance training,2319.0,High protein,53.03
+679304,Male,26,6.2,Build muscle,2807.0,High protein,56.63
+502690,Male,22,7.5,Build muscle,2919.0,High protein,56.93
+599046,Male,25,7.8,Fat loss,1950.0,Low carb,39.76
+551269,Female,23,5.9,General health,2124.0,High protein,40.36
+121959,Female,29,6.2,Build muscle,2566.0,Low carb,55.89
+760890,Male,35,6.7,Fat loss,1748.0,High protein,35.88
+850216,Female,26,6.4,Build muscle,2674.0,Vegan,
+890180,Female,21,5.7,General health,2313.0,Whole foods,45.52
+328576,Male,25,5.8,Fat loss,1671.0,High protein,33.74
+637833,Female,21,6.6,Build muscle,,High protein,
+265838,Female,28,5.5,Build muscle,2947.0,High protein,52.11
+435674,Male,25,3.7,Build muscle,2964.0,Low carb,48.11
+979989,Male,32,6.0,Fat loss,1833.0,High protein,41.76
+161087,Male,33,6.7,Build muscle,2783.0,Low carb,43.9
+693128,Male,31,6.5,Build muscle,2974.0,Low carb,59.56
+218451,Female,20,6.5,Flexibility,1553.0,Whole foods,37.48
+547600,Female,20,5.6,General health,2257.0,Whole foods,53.32
+937437,Male,19,8.2,Fat loss,1566.0,Low carb,26.78
+539792,Male,33,3.7,Flexibility,1919.0,Vegan,42.27
+139353,Male,24,7.1,Build muscle,2601.0,Whole foods,76.5
+293075,Male,36,5.3,Endurance training,2119.0,Whole foods,55.82
+314283,Female,35,,Endurance training,2190.0,Low carb,35.65
+414877,Male,24,8.3,Fat loss,,Whole foods,55.25
+165318,Male,27,4.699999999999999,Build muscle,2969.0,High protein,55.62
+865313,Male,19,5.8,Fat loss,1803.0,Whole foods,52.08
+582690,Female,30,8.5,Fat loss,1922.0,Whole foods,54.08
+516880,Male,35,5.0,General health,2358.0,High protein,31.73
+691460,Female,22,5.3999999999999995,Build muscle,2721.0,Whole foods,60.52
+840976,Male,26,5.3,Build muscle,2520.0,High protein,54.32
+881239,Female,33,5.3,Build muscle,2657.0,High protein,52.82
+193264,Female,19,8.3,Build muscle,2847.0,High protein,52.77
+870746,Male,21,6.5,Fat loss,1658.0,Vegan,34.36
+913168,Male,18,6.0,Build muscle,2876.0,High protein,47.04
+325281,Female,34,5.5,General health,2034.0,High protein,40.57
+737147,Female,25,7.4,Build muscle,2649.0,Whole foods,76.58
+998613,Male,31,5.8,Build muscle,2904.0,High protein,60.94
+494070,Male,23,,Endurance training,2256.0,High protein,55.08
+452228,Female,29,,Build muscle,2664.0,High protein,57.24
+531839,Female,25,5.4,Endurance training,2076.0,Vegan,49.94
+369536,Male,22,7.4,Endurance training,2084.0,Whole foods,62.68
+417824,Female,20,6.0,Build muscle,2545.0,,52.5
+357426,Male,32,6.1,Build muscle,2892.0,Whole foods,69.01
+277789,Female,20,6.9,Build muscle,2900.0,Whole foods,75.93
+613153,Male,30,7.6,Build muscle,2546.0,High protein,59.18
+842452,Male,28,6.3,Build muscle,2712.0,,51.46
+937291,Male,27,4.0,Build muscle,2978.0,High protein,
+225657,Female,26,4.9,Build muscle,2986.0,Vegan,62.84
+335167,Male,20,6.1000000000000005,Fat loss,1558.0,High protein,37.08
+781669,Male,23,5.1,Endurance training,2053.0,High protein,45.02
+580671,Male,28,7.9,Fat loss,1841.0,Whole foods,40.62
+819094,Male,33,3.8000000000000003,Build muscle,,High protein,57.8
+170467,Other,22,6.5,Build muscle,2691.0,High protein,50.43
+283734,Male,28,4.9,General health,2302.0,Whole foods,54.39
+722794,Female,24,6.3999999999999995,Fat loss,1505.0,Low carb,25.44
+209751,Female,27,6.3,General health,1943.0,Vegan,56.42
+481050,Male,23,5.0,Build muscle,2845.0,Vegan,60.69
+911774,Male,23,6.4,Endurance training,2260.0,High protein,41.55
+792517,Male,28,7.1,Fat loss,1572.0,Vegan,40.65
+561079,Male,23,7.2,Build muscle,2673.0,High protein,57.72
+468452,Male,27,7.6,Fat loss,1731.0,Whole foods,44.09
+206081,Male,27,6.3,Fat loss,,Whole foods,49.05
+713333,Female,34,6.7,Build muscle,2927.0,Whole foods,67.09
+658986,Male,39,7.0,Build muscle,2946.0,Whole foods,69.42
+210078,Male,30,5.7,General health,2021.0,Whole foods,39.98
+967055,Female,35,4.3,Flexibility,,Vegan,27.06
+122671,Male,20,9.5,Build muscle,2615.0,High protein,63.71
+518400,Female,21,,Build muscle,2525.0,Vegan,63.76
+455528,Female,38,7.1,Build muscle,2552.0,Whole foods,63.43
+710490,Male,32,7.2,Endurance training,2364.0,Low carb,53.08
+151663,Female,30,5.2,Build muscle,2528.0,Whole foods,60.24
+115708,Male,23,5.5,Flexibility,1518.0,Whole foods,37.34
+978338,Male,43,5.8,Build muscle,2802.0,Whole foods,67.97
+411955,Male,23,,Build muscle,2891.0,Whole foods,69.54
+233883,Male,25,5.7,Endurance training,2278.0,Low carb,41.07
+418394,Female,23,5.8,General health,2428.0,High protein,54.06
+212547,Male,26,7.4,Fat loss,1605.0,High protein,35.56
+659042,Male,29,7.5,Fat loss,1918.0,High protein,44.09
+851102,Male,26,4.3,Flexibility,1808.0,Whole foods,49.28
+862002,Female,28,7.2,Build muscle,2726.0,Whole foods,69.04
+242483,Male,33,6.6,General health,1985.0,Whole foods,45.09
+758271,Female,23,7.4,Build muscle,,Vegan,52.98
+314835,Male,26,5.7,General health,2327.0,High protein,47.19
+501896,Female,25,4.6,Endurance training,2272.0,High protein,43.72
+184896,Other,23,8.7,Build muscle,2659.0,High protein,55.26
+577095,Female,23,,General health,2023.0,Vegan,43.85
+171295,Female,27,7.8,Build muscle,2755.0,Low carb,64.62
+843974,Male,28,6.1,Build muscle,2679.0,High protein,46.45
+987121,Female,30,8.3,Fat loss,1519.0,Low carb,21.75
+373255,Male,26,6.1,Build muscle,2611.0,,53.54
+399648,Male,21,6.4,Endurance training,2119.0,Whole foods,50.92
+757162,Male,30,6.5,Build muscle,2693.0,High protein,55.25
+108155,Female,30,6.2,Build muscle,2967.0,High protein,61.29
+566872,Male,33,6.2,Build muscle,2610.0,High protein,58.36
+925816,Female,34,5.6,Build muscle,2709.0,Whole foods,57.9
+474705,Female,30,6.0,Fat loss,1500.0,High protein,29.02
+671542,Female,30,4.6,General health,,Whole foods,47.61
+908350,Female,28,3.5,Flexibility,1592.0,Whole foods,42.47
+710269,Female,35,4.6,General health,2020.0,Whole foods,60.1
+654594,Other,24,6.8,Build muscle,2710.0,Whole foods,71.19
+247718,Female,26,6.1,Fat loss,1927.0,Low carb,36.39
+408987,Female,29,6.7,Build muscle,2731.0,High protein,50.07
+745263,Other,28,5.5,Build muscle,2761.0,High protein,51.28
+458745,Female,20,7.199999999999999,Fat loss,1863.0,,
+207512,Male,21,5.5,Build muscle,2602.0,High protein,54.51
+247443,Male,29,5.800000000000001,Build muscle,2549.0,,51.81
+570587,Male,27,7.0,Flexibility,1873.0,Vegan,35.51
+473616,Male,30,6.9,Fat loss,1609.0,Low carb,29.89
+757409,Female,26,6.5,Fat loss,1955.0,High protein,44.78
+786976,Female,25,7.0,Build muscle,2587.0,Vegan,57.8
+465871,Female,32,,Build muscle,2519.0,Vegan,56.28
+475037,Male,26,4.7,General health,1813.0,High protein,38.31
+907364,Female,18,6.6,Build muscle,2632.0,High protein,60.79
+217796,Female,33,4.9,Fat loss,1924.0,Vegan,42.62
+391999,Female,18,7.4,Build muscle,2795.0,Low carb,50.11
+292506,Female,34,6.800000000000001,Fat loss,1533.0,Low carb,26.16
+798376,Female,22,6.1,Build muscle,2879.0,High protein,57.95
+369544,Male,26,4.9,General health,2007.0,Whole foods,36.87
+480002,Female,31,4.8,General health,1998.0,Whole foods,47.87
+798002,Male,34,4.4,General health,2391.0,Whole foods,56.29
+639439,Male,25,5.2,Build muscle,2570.0,High protein,43.6
+690978,Female,25,4.6,General health,1954.0,Whole foods,43.0
+628787,Male,27,6.8,Fat loss,1577.0,Whole foods,44.97
+630583,Female,29,6.3999999999999995,Build muscle,2577.0,High protein,52.66
+488215,Male,24,5.4,Endurance training,2171.0,Whole foods,53.68
+421184,Female,25,5.4,Build muscle,2788.0,Whole foods,68.58
+898615,Male,25,6.3,Build muscle,2532.0,High protein,51.08
+522515,Other,28,6.6,General health,2219.0,Whole foods,61.42
+768234,Female,33,5.3,Build muscle,2506.0,High protein,49.97
+478480,Male,33,5.199999999999999,Fat loss,1659.0,Whole foods,34.2
+132711,Female,28,5.5,Build muscle,2739.0,High protein,61.85
+891971,Other,27,3.8,General health,2222.0,Whole foods,54.89
+601157,Male,19,7.2,Flexibility,2035.0,Whole foods,48.6
+284423,Male,36,5.4,General health,1869.0,Whole foods,40.11
+616349,Male,25,6.2,Build muscle,2867.0,High protein,58.55
+803714,Male,21,6.5,Build muscle,2715.0,Low carb,49.41
+757917,Female,25,5.1,Fat loss,1603.0,High protein,40.8
+924792,Female,27,7.3999999999999995,Build muscle,,High protein,53.04
+837378,Male,18,7.7,Build muscle,2553.0,High protein,47.93
+233272,Male,21,,Fat loss,1793.0,Low carb,39.34
+867836,Female,27,7.2,Fat loss,1829.0,Low carb,40.56
+802335,Male,23,7.4,Flexibility,1702.0,Low carb,34.85
+907789,Male,25,7.8999999999999995,Build muscle,,High protein,59.87
+743409,Female,30,6.6,Build muscle,2544.0,High protein,50.88
+177505,Female,27,4.5,Build muscle,2816.0,High protein,55.46
+102869,Female,23,6.6,Flexibility,1697.0,Whole foods,49.29
+881474,Female,28,4.3,General health,2015.0,High protein,42.84
+554351,Male,21,4.9,General health,2280.0,,54.37
+412252,Female,22,6.2,Flexibility,1808.0,,52.4
+736584,Male,31,6.6,Fat loss,1883.0,Low carb,24.53
+718467,Male,24,8.5,Fat loss,1934.0,Low carb,48.97
+190272,Male,26,7.4,Build muscle,2831.0,Whole foods,61.09
+138467,Male,21,5.7,Fat loss,,High protein,
+909760,Female,20,,Fat loss,1526.0,Low carb,31.21
+977844,Male,28,7.5,Fat loss,1665.0,Low carb,32.74
+580047,Male,26,5.9,Flexibility,1817.0,Whole foods,50.63
+759347,Male,31,4.1,Flexibility,1773.0,Whole foods,37.88
+158871,Male,26,6.5,General health,2182.0,High protein,45.78
+228391,Female,27,5.4,General health,2164.0,Whole foods,50.12
+539430,Male,31,4.4,Endurance training,2102.0,Whole foods,52.29
+710704,Female,24,8.0,Build muscle,2947.0,High protein,59.12
+956703,Male,27,6.6,Build muscle,2832.0,High protein,56.72
+930496,Female,26,6.5,Endurance training,2372.0,Whole foods,55.82
+356687,Female,36,6.8,General health,2415.0,Whole foods,57.23
+825451,Male,26,6.0,Build muscle,2913.0,High protein,58.67
+207450,Female,29,6.3,Flexibility,1744.0,Whole foods,49.0
+271890,Male,32,7.7,Build muscle,2804.0,High protein,53.64
+538741,Male,24,7.9,Build muscle,,,50.0
+381974,Other,24,6.0,Endurance training,2115.0,High protein,45.94
+500109,Male,22,8.3,Build muscle,2640.0,High protein,54.0
+216381,Male,27,6.0,Build muscle,2917.0,High protein,61.46
+573125,Female,29,5.6,Build muscle,2855.0,High protein,51.34
+671621,Male,24,5.4,General health,2277.0,Whole foods,46.66
+234508,Female,27,7.1,Fat loss,1624.0,Vegan,34.68
+829650,Male,24,4.5,Endurance training,2024.0,High protein,36.2
+962645,Female,18,7.5,Fat loss,1693.0,High protein,36.08
+499111,Female,37,7.1,Build muscle,2883.0,High protein,54.39
+250810,Female,30,5.6,Flexibility,2111.0,Vegan,49.35
+392890,Female,25,6.2,Build muscle,2901.0,High protein,55.74
+673665,Male,23,4.8,Flexibility,2016.0,Low carb,37.86
+940477,Other,28,7.4,Fat loss,1518.0,Whole foods,40.86
+460032,Male,28,5.0,Flexibility,2181.0,Whole foods,54.05
+469599,Male,34,8.4,Build muscle,2773.0,High protein,56.51
+760960,Male,23,8.3,Fat loss,1753.0,Low carb,38.12
+850020,Male,21,6.3,Build muscle,2620.0,High protein,48.22
+979611,Male,30,7.1000000000000005,Build muscle,2531.0,Whole foods,69.62
+271836,Female,34,6.0,Endurance training,2148.0,Whole foods,51.95
+829903,Female,24,7.3,Build muscle,2765.0,High protein,49.05
+145714,Other,23,8.0,Fat loss,1536.0,Vegan,37.29
+727234,Male,28,7.4,Build muscle,2676.0,High protein,49.83
+996048,Female,28,6.8,Build muscle,2841.0,High protein,59.9
+730271,Male,26,4.8,General health,1812.0,Vegan,50.22
+566960,Male,22,9.6,Fat loss,1682.0,Low carb,31.5
+811851,Male,34,5.7,Endurance training,2144.0,Vegan,48.03
+224123,Male,33,5.0,Endurance training,2264.0,Low carb,32.58
+405628,Female,29,5.4,General health,1887.0,Vegan,43.39
+182989,Female,26,3.6,Build muscle,2927.0,High protein,
+398356,Male,24,7.9,Endurance training,2461.0,Whole foods,58.57
+929957,Male,28,4.6,Flexibility,1545.0,Low carb,23.67
+278274,Male,36,4.7,General health,2191.0,High protein,46.86
+787995,Male,25,7.1,Fat loss,1618.0,Low carb,37.41
+425352,Other,34,7.0,Endurance training,2420.0,Whole foods,60.17
+920260,Male,31,5.5,General health,2330.0,Whole foods,52.5
+511927,Male,25,5.6,Endurance training,2446.0,Whole foods,67.46
+889852,Male,22,6.0,Build muscle,2719.0,High protein,49.99
+983184,Female,30,4.5,Build muscle,2929.0,Whole foods,58.69
+231373,Other,35,4.0,General health,,Whole foods,59.6
+538452,Female,26,7.2,Build muscle,2954.0,High protein,53.41
+215294,Female,37,4.9,General health,1845.0,Whole foods,50.38
+559451,Male,20,6.1,Build muscle,2873.0,High protein,54.69
+748307,Male,34,7.5,Fat loss,1545.0,Whole foods,43.78
+165726,Other,26,6.9,Build muscle,2958.0,Whole foods,79.08
+241564,Female,37,,Build muscle,2513.0,Vegan,48.16
+477812,Female,20,4.6,Flexibility,2096.0,Whole foods,48.01
+368246,Female,28,5.1,General health,1802.0,Whole foods,44.25
+805696,Female,33,5.6,Endurance training,2027.0,High protein,48.65
+218015,Female,20,8.0,Fat loss,1880.0,Low carb,34.13
+840674,Other,34,7.2,Endurance training,2156.0,High protein,41.6
+354079,Female,23,6.1,Endurance training,2342.0,Vegan,52.94
+650929,Female,23,7.4,Fat loss,1901.0,Vegan,40.1
+789944,Female,19,7.4,Build muscle,2918.0,High protein,59.21
+788105,Male,25,5.9,Endurance training,2332.0,Vegan,42.44
+613758,Female,27,5.9,General health,2486.0,Whole foods,71.73
+465890,Male,29,6.3,Flexibility,1613.0,Whole foods,34.59
+545101,Female,22,,Build muscle,2888.0,High protein,
+136631,Other,26,4.6,General health,2286.0,Vegan,48.09
+866577,Female,25,7.4,Fat loss,1830.0,High protein,48.42
+172991,Male,31,8.9,Fat loss,1749.0,Low carb,29.35
+104014,Male,32,4.3,Build muscle,2558.0,High protein,
+373237,Male,37,7.199999999999999,Fat loss,1702.0,Low carb,37.63
+118070,Female,18,7.8999999999999995,Build muscle,2814.0,High protein,59.06
+922209,Male,26,5.8,Build muscle,2738.0,High protein,49.0
+156958,Male,18,7.6,General health,2033.0,Whole foods,54.68
+182074,Male,30,3.7,General health,2102.0,High protein,37.18
+635017,Female,32,8.7,Fat loss,1594.0,Low carb,39.59
+855073,Female,19,4.9,Flexibility,2152.0,High protein,37.8
+276089,Male,23,6.8,Build muscle,2833.0,High protein,55.87
+297392,Male,33,4.8,Build muscle,2612.0,Low carb,44.16
+258823,Male,38,5.0,Endurance training,2108.0,Vegan,40.17
+730152,Female,31,6.3,Build muscle,2861.0,High protein,60.24
+493002,Female,35,,Build muscle,2844.0,High protein,58.11
+833429,Male,31,7.2,Build muscle,2788.0,Vegan,66.17
+598863,Female,23,6.3999999999999995,Build muscle,2596.0,Whole foods,54.63
+467654,Male,28,4.9,General health,1815.0,Whole foods,50.08
+679036,Female,25,6.5,Build muscle,2543.0,Low carb,59.69
+630089,Male,21,8.2,Fat loss,1941.0,High protein,39.24
+250262,Male,24,7.4,Build muscle,2875.0,High protein,67.15
+542905,Male,31,5.3,Endurance training,,High protein,43.05
+335362,Female,29,4.7,Build muscle,2889.0,High protein,48.9
+544209,Female,28,3.2,General health,,Low carb,40.95
+653880,Male,28,7.5,Fat loss,1716.0,Low carb,
+897079,Female,30,7.1,Build muscle,2898.0,Low carb,49.31
+764076,Female,33,6.5,Fat loss,1759.0,Whole foods,41.78
+319963,Male,24,7.1000000000000005,Build muscle,2811.0,High protein,59.25
+580761,Male,21,9.7,Fat loss,1819.0,Low carb,37.79
+348710,Female,29,5.7,Build muscle,2695.0,Whole foods,68.12
+320984,Male,23,6.7,Flexibility,1977.0,Whole foods,51.03
+997059,Male,29,6.3,Build muscle,2917.0,High protein,59.94
+956748,Other,28,5.6,Endurance training,2474.0,,43.14
+882355,Male,22,9.1,Build muscle,2594.0,High protein,55.13
+364512,Male,29,6.4,Build muscle,2555.0,High protein,46.47
+701863,Male,33,7.8,Fat loss,1531.0,Vegan,42.54
+368799,Female,27,6.9,Flexibility,1730.0,High protein,33.49
+337549,Male,21,6.7,Build muscle,2871.0,High protein,62.68
+694319,Male,24,7.3,Build muscle,2508.0,Whole foods,61.1
+584299,Male,28,5.5,Build muscle,2690.0,Whole foods,65.93
+712210,Male,30,6.1,Build muscle,2860.0,High protein,53.89
+548982,Male,37,7.2,Build muscle,2699.0,Vegan,53.31
+224046,Male,22,7.9,Fat loss,1833.0,Low carb,27.84
+506619,Female,26,4.9,Build muscle,2660.0,High protein,46.52
+132097,Male,31,,Build muscle,2586.0,High protein,50.13
+766326,Male,31,4.2,General health,1820.0,Whole foods,45.37
+749150,Male,21,9.2,Build muscle,2810.0,Whole foods,75.64
+330229,Male,28,,Build muscle,2575.0,High protein,47.56
+218834,Male,27,7.300000000000001,Build muscle,2940.0,Low carb,49.94
+193848,Female,30,4.0,Endurance training,2385.0,Vegan,42.49
+152921,Male,25,5.1,Build muscle,2640.0,,50.04
+805086,Male,19,6.199999999999999,Fat loss,1625.0,High protein,
+750429,Male,27,7.0,Build muscle,2750.0,High protein,61.43
+805660,Female,39,7.8,Fat loss,1887.0,Whole foods,52.25
+384821,Female,22,7.9,Build muscle,2583.0,Low carb,52.13
+155609,Female,36,6.1,Endurance training,2433.0,Whole foods,68.11
+327897,Male,22,7.2,General health,2170.0,Low carb,43.23
+131024,Female,31,4.3,Endurance training,2047.0,Low carb,40.45
+170313,Male,30,7.2,Build muscle,2878.0,High protein,55.96
+489957,Male,25,5.3,Build muscle,2577.0,Whole foods,55.41
+284078,Male,31,6.1000000000000005,Build muscle,2529.0,Whole foods,58.36
+457429,Male,22,6.1,Build muscle,2784.0,High protein,54.95
+561243,Other,29,5.6,Build muscle,2635.0,High protein,52.21
+213632,Female,32,3.9,General health,1939.0,Whole foods,
+351451,Male,28,6.3999999999999995,Build muscle,2540.0,,
+103051,Female,21,6.5,Fat loss,1985.0,Low carb,43.85
+804107,Other,32,7.800000000000001,Fat loss,1781.0,High protein,36.12
+476836,Female,23,7.800000000000001,Fat loss,1549.0,Vegan,34.89
+711523,Female,35,5.4,Build muscle,2757.0,Low carb,43.17
+821772,Female,35,4.4,General health,2159.0,Whole foods,48.39
+289407,Other,27,7.3999999999999995,Build muscle,2939.0,,74.68
+549395,Female,27,5.2,General health,,Low carb,38.34
+562894,Male,19,7.0,General health,1933.0,,53.81
+311810,Male,18,6.2,General health,2439.0,Whole foods,60.74
+827975,Female,23,6.8,Fat loss,1603.0,Low carb,30.13
+173523,Male,28,5.300000000000001,Build muscle,2753.0,High protein,64.54
+860463,Female,31,6.8,Build muscle,2594.0,High protein,51.66
+194476,Male,39,4.8,Endurance training,2336.0,Whole foods,62.22
+333841,Male,30,4.8999999999999995,Build muscle,2716.0,High protein,50.8
+903451,Male,26,5.3,General health,2372.0,Whole foods,61.16
+970045,Male,28,3.9,Build muscle,2979.0,High protein,61.38
+322866,Other,24,5.4,Build muscle,2767.0,Whole foods,67.62
+186672,Female,20,8.5,Build muscle,2740.0,High protein,44.35
+698135,Female,25,7.0,Build muscle,,High protein,50.91
+444894,Female,28,7.1,Fat loss,1646.0,Low carb,
+834994,Male,23,6.0,General health,2400.0,Whole foods,61.44
+128251,Male,28,,Endurance training,2094.0,Low carb,42.14
+727769,Female,29,4.1,General health,2092.0,Low carb,29.19
+474710,Male,24,6.4,General health,1824.0,High protein,34.35
+650233,Male,26,7.3,General health,2071.0,Whole foods,54.49
+977284,Male,33,,Build muscle,2665.0,Whole foods,66.33
+132217,Male,31,6.3,General health,1886.0,Whole foods,
+108308,Other,25,5.1,Build muscle,2641.0,Whole foods,62.78
+368093,Female,27,5.1,Build muscle,2633.0,Whole foods,65.35
+283062,Male,18,5.4,Endurance training,2472.0,High protein,48.9
+494366,Female,37,7.0,Build muscle,2778.0,Whole foods,63.17
+844840,Female,28,4.6000000000000005,Build muscle,2625.0,Whole foods,51.46
+200235,Male,28,5.6,Build muscle,2815.0,High protein,57.31
+174740,Female,25,4.8,Build muscle,2990.0,High protein,
+478496,Female,22,5.3,Flexibility,1640.0,Low carb,28.21
+953049,Male,34,6.4,Build muscle,2855.0,High protein,48.41
+850201,Male,22,7.6000000000000005,Build muscle,2602.0,Whole foods,67.77
+903328,Male,31,8.4,Fat loss,1725.0,Low carb,33.85
+277247,Male,26,5.1,Build muscle,2889.0,Whole foods,71.87
+763165,Male,32,5.3,Flexibility,2074.0,Whole foods,60.23
+629525,Female,23,7.3,Build muscle,2793.0,Vegan,49.6
+120056,Male,25,7.3,Fat loss,1883.0,Low carb,33.41
+276615,Male,31,4.1,Endurance training,2305.0,High protein,43.72
+287628,Female,21,8.0,Flexibility,1753.0,Vegan,47.86
+738836,Female,26,3.3,Endurance training,2179.0,Whole foods,43.49
+473632,Male,27,,General health,1839.0,High protein,46.86
+234415,Male,29,6.5,Build muscle,2763.0,,55.61
+506716,Male,25,5.5,Build muscle,2688.0,Whole foods,64.4
+546438,Female,29,5.6,Build muscle,2507.0,Vegan,52.38
+653663,Male,28,4.5,General health,2415.0,Low carb,41.27
+765022,Male,30,4.8,Build muscle,2724.0,Vegan,62.2
+641252,Other,21,5.8,Build muscle,2533.0,Whole foods,56.29
+737717,Male,19,6.1,Build muscle,2735.0,High protein,55.84
+352764,Female,20,6.0,Build muscle,2962.0,High protein,56.2
+814998,Other,33,4.7,Build muscle,2727.0,Whole foods,61.31
+566882,Male,18,4.5,Flexibility,2199.0,Vegan,59.41
+840427,Female,20,9.6,Fat loss,1812.0,High protein,42.39
+612153,Male,30,5.0,Endurance training,2482.0,Whole foods,62.91
+167215,Female,20,4.8,General health,2229.0,Whole foods,59.68
+955474,Female,30,7.5,Build muscle,2521.0,High protein,44.27
+244356,Female,28,7.9,Build muscle,2842.0,High protein,66.24
+303861,Male,27,5.1,Build muscle,2539.0,High protein,37.24
+455612,Female,25,4.8,Build muscle,2672.0,,60.12
+554605,Female,20,5.2,Endurance training,2438.0,High protein,45.75
+109435,Male,29,6.2,Build muscle,2678.0,Low carb,52.06
+547556,Female,19,6.8,Build muscle,2585.0,Whole foods,64.7
+799438,Male,27,6.199999999999999,Fat loss,1632.0,High protein,33.5
+965264,Male,27,3.8,Flexibility,1850.0,,44.61
+675581,Male,26,4.7,General health,2324.0,Whole foods,51.16
+178781,Male,27,5.0,General health,2339.0,Whole foods,49.14
+291475,Male,39,5.4,General health,2305.0,Low carb,45.99
+260196,Female,34,7.1,Build muscle,2583.0,Vegan,59.52
+326507,Male,30,5.1,General health,2263.0,,62.92
+406063,Female,24,7.7,Build muscle,2817.0,Whole foods,65.59
+864121,Male,27,5.3,Endurance training,2348.0,High protein,49.97
+876665,Female,24,6.6,Endurance training,2342.0,Whole foods,56.56
+790607,Other,29,5.7,Build muscle,2779.0,High protein,60.53
+221172,Male,21,6.3,General health,2062.0,High protein,47.27
+456902,Female,22,6.1,Flexibility,1665.0,Vegan,38.4
+584963,Male,37,6.0,Build muscle,2792.0,Whole foods,65.92
+555968,Female,34,3.3,General health,2308.0,Whole foods,59.37
+418717,Male,23,6.2,Build muscle,2567.0,Low carb,50.55
+159101,Female,18,,Fat loss,1725.0,Whole foods,40.11
+595972,Male,30,5.0,Fat loss,1669.0,Low carb,24.9
+388790,Female,22,9.3,Fat loss,1585.0,Low carb,32.15
+990617,Female,31,6.3,Flexibility,2144.0,,54.43
+647337,Male,36,4.8,General health,2247.0,Vegan,53.39
+834965,Male,19,6.3,General health,2489.0,Whole foods,55.48
+460260,Male,22,7.6,Build muscle,2989.0,Whole foods,67.49
+983811,Male,22,8.3,Flexibility,2001.0,Vegan,52.03
+692673,Female,18,6.9,Build muscle,2751.0,Whole foods,61.74
+750419,Male,27,,General health,2326.0,High protein,49.53
+533374,Male,29,6.0,Build muscle,2722.0,High protein,50.72
+820777,Male,30,6.0,Build muscle,2878.0,Low carb,60.37
+647577,Female,28,5.9,Endurance training,2200.0,High protein,40.47
+472370,Male,36,6.0,Build muscle,2606.0,High protein,57.42
+987225,Male,26,5.3,Build muscle,2749.0,Low carb,50.52
+371967,Male,26,5.5,Build muscle,2936.0,High protein,58.51
+291232,Male,28,5.6,Build muscle,2908.0,High protein,46.97
+404119,Female,30,6.2,Build muscle,2588.0,Low carb,36.65
+109540,Male,28,4.6,Build muscle,2624.0,Low carb,45.87
+640652,Male,30,,Fat loss,,Whole foods,43.74
+497827,Female,27,4.6000000000000005,Build muscle,2968.0,Vegan,55.93
+651951,Female,20,7.4,Endurance training,2136.0,Whole foods,48.54
+151991,Male,29,5.2,Build muscle,2746.0,Whole foods,68.75
+288751,Female,37,5.6,Flexibility,1995.0,Whole foods,52.18
+466326,Female,31,5.7,General health,2477.0,Low carb,44.74
+786337,Male,25,7.1,Build muscle,2649.0,High protein,57.26
+718992,Female,29,6.4,General health,2142.0,Whole foods,47.44
+149115,Female,37,,General health,2379.0,Whole foods,54.63
+453151,Male,37,7.2,Flexibility,1820.0,Whole foods,54.95
+843583,Male,31,5.5,Fat loss,1809.0,Vegan,40.02
+291962,Male,31,6.2,Build muscle,2913.0,Vegan,62.4
+821747,Female,30,5.5,Endurance training,2348.0,Whole foods,68.76
+249143,Other,31,4.9,Endurance training,2019.0,Whole foods,42.35
+814635,Female,34,5.7,Endurance training,2288.0,High protein,49.73
+636226,Male,32,6.3,Build muscle,2988.0,Whole foods,80.59
+453824,Female,22,6.5,General health,2291.0,Low carb,41.38
+104000,Female,30,6.7,Flexibility,2111.0,Whole foods,57.16
+825948,Male,22,8.8,Build muscle,2751.0,Whole foods,64.03
+987474,Male,32,6.2,Build muscle,2969.0,Vegan,59.42
+455754,Female,35,7.3,Build muscle,2576.0,Low carb,50.27
+351492,Male,25,4.0,General health,,Whole foods,62.23
+990123,Female,25,5.1,Endurance training,2391.0,Vegan,56.31
+599522,Male,22,5.2,Endurance training,2411.0,Vegan,59.02
+591072,Male,28,7.5,Fat loss,1672.0,Low carb,33.25
+138304,Male,24,6.5,Fat loss,1862.0,Whole foods,53.06
+604999,Male,25,5.800000000000001,Build muscle,2700.0,Vegan,55.58
+431593,Female,23,7.5,Fat loss,1716.0,High protein,41.4
+707274,Male,25,5.4,General health,2175.0,Whole foods,
+251836,Female,24,,Flexibility,2085.0,Whole foods,54.34
+208940,Male,26,4.0,Flexibility,1510.0,Vegan,34.76
+924926,Female,32,3.6,Flexibility,1511.0,Vegan,24.32
+365517,Male,33,7.4,Fat loss,1879.0,Whole foods,42.58
+767521,Female,32,6.9,Fat loss,1978.0,Low carb,38.67
+721820,Female,34,4.1,General health,2389.0,Whole foods,48.6
+979090,Male,33,5.7,Flexibility,1934.0,,52.23
+485777,Male,27,3.9,Build muscle,2671.0,High protein,55.56
+724674,Female,32,5.9,Build muscle,2595.0,Whole foods,64.74
+651638,Other,27,7.800000000000001,Build muscle,2805.0,High protein,51.12
+717296,Male,28,5.8,Endurance training,2372.0,High protein,54.24
+980729,Female,28,4.8,Build muscle,2772.0,Whole foods,76.4
+649639,Female,26,6.8,Build muscle,2918.0,High protein,58.7
+712956,Female,22,8.399999999999999,Build muscle,2884.0,Whole foods,74.16
+738873,Other,30,6.0,Build muscle,2912.0,Whole foods,71.33
+437497,Female,26,6.9,General health,2490.0,Whole foods,64.2
+307869,Male,19,6.2,Build muscle,2563.0,Whole foods,62.03
+165953,Male,31,4.2,Endurance training,2131.0,Low carb,38.35
+943890,Male,33,5.4,Endurance training,2342.0,Whole foods,61.54
+600328,Female,32,6.6,General health,2118.0,High protein,55.13
+906790,Female,36,7.6,Build muscle,2831.0,High protein,
+103267,Male,28,7.0,Flexibility,2120.0,Whole foods,52.78
+182745,Female,31,8.2,Fat loss,1772.0,Low carb,29.9
+976020,Female,22,,Flexibility,1667.0,Whole foods,49.47
+924945,Female,32,5.7,Flexibility,1896.0,Vegan,38.59
+257164,Male,25,5.4,Build muscle,2679.0,Vegan,49.34
+635626,Male,22,7.2,Build muscle,2557.0,Whole foods,66.48
+231484,Male,35,5.9,Build muscle,2979.0,High protein,67.06
+631831,Male,33,6.9,Fat loss,1920.0,Low carb,40.52
+992323,Male,27,7.8,Build muscle,2997.0,Whole foods,74.7
+160692,Male,34,,Build muscle,2578.0,High protein,53.65
+320156,Male,26,8.7,Fat loss,1959.0,High protein,49.3
+323992,Male,26,5.7,Build muscle,2560.0,Low carb,42.43
+616771,Male,31,6.3,Build muscle,2868.0,High protein,56.1
+930857,Female,27,6.9,Fat loss,1620.0,High protein,32.42
+663044,Male,27,4.1,Build muscle,2706.0,Whole foods,58.33
+643176,Female,24,8.100000000000001,Build muscle,2533.0,Low carb,46.63
+791095,Other,24,7.9,Fat loss,1569.0,Whole foods,47.16
+933727,Male,20,6.8999999999999995,Fat loss,1516.0,Whole foods,42.46
+214352,Male,28,6.2,General health,2295.0,Whole foods,59.82
+969474,Male,22,6.4,Fat loss,1996.0,High protein,41.78
+185999,Female,21,9.3,Fat loss,1519.0,Low carb,35.12
+117955,Female,23,8.3,Fat loss,1956.0,High protein,37.85
+924273,Male,31,6.4,General health,2114.0,Whole foods,51.14
+170640,Female,30,4.8,General health,1868.0,High protein,38.42
+296582,Male,31,5.8,General health,1960.0,Low carb,38.37
+844086,Male,24,6.1,Endurance training,,,53.75
+500573,Female,28,5.1,Build muscle,2875.0,High protein,55.14
+525695,Male,38,5.6,Build muscle,2705.0,High protein,51.28
+161476,Female,27,4.9,Build muscle,2644.0,Low carb,63.33
+406955,Male,27,3.7,Flexibility,2068.0,High protein,44.72
+267280,Other,31,5.8,Endurance training,,High protein,44.18
+775510,Male,32,6.1,General health,2184.0,Vegan,46.3
+695468,Male,33,5.6,Build muscle,2768.0,Whole foods,64.5
+798646,Female,26,5.4,General health,2253.0,Whole foods,54.36
+737144,Male,22,6.8,Build muscle,2686.0,High protein,
+954882,Other,34,5.8999999999999995,Build muscle,2505.0,Low carb,
+514568,Female,30,6.1000000000000005,Build muscle,2852.0,High protein,48.37
+286141,Female,26,6.0,Fat loss,1849.0,Whole foods,43.22
+998320,Female,22,8.8,Fat loss,1609.0,High protein,37.04
+734736,Other,23,5.6,General health,2282.0,Whole foods,54.63
+638685,Female,27,6.7,Build muscle,2906.0,Whole foods,78.14
+278031,Female,25,6.5,Fat loss,1637.0,Whole foods,34.62
+219180,Female,29,6.2,Fat loss,1550.0,High protein,29.1
+166234,Male,23,5.2,Build muscle,2902.0,High protein,64.0
+664242,Male,21,8.3,General health,2362.0,Whole foods,60.44
+278352,Female,33,4.1,General health,2275.0,High protein,48.65
+179459,Male,29,4.0,General health,1886.0,Whole foods,55.89
+509995,Male,25,6.6,General health,1867.0,Whole foods,43.82
+295004,Male,18,8.6,General health,2395.0,Whole foods,60.27
+566152,Male,37,4.7,Build muscle,2966.0,,55.79
+825256,Female,25,6.1,General health,1841.0,Whole foods,36.53
+159163,Female,19,7.300000000000001,Build muscle,2718.0,Vegan,57.29
+575853,Male,26,6.0,Build muscle,2556.0,Whole foods,66.72
+151934,Male,27,7.6,Build muscle,2725.0,High protein,57.83
+820255,Female,30,3.8,General health,1995.0,High protein,42.05
+525523,Male,30,4.3,General health,2477.0,Vegan,49.86
+940530,Female,29,4.7,Build muscle,2561.0,High protein,46.58
+554137,Male,25,5.2,General health,2062.0,Whole foods,56.9
+105486,Male,23,6.1,Flexibility,1611.0,Whole foods,
+239407,Other,26,7.1000000000000005,Build muscle,2752.0,High protein,56.69
+973332,Male,33,4.8,Build muscle,,Whole foods,65.36
+750308,Female,31,6.6,General health,1977.0,High protein,48.17
+727083,Female,26,7.1,Build muscle,2935.0,High protein,63.37
+320184,Male,25,6.3,Endurance training,2025.0,High protein,35.01
+766490,Female,22,5.699999999999999,Build muscle,2909.0,High protein,50.98
+449652,Other,31,5.5,Fat loss,1745.0,Whole foods,46.56
+861315,Male,28,4.2,General health,2330.0,High protein,44.98
+742612,Female,20,4.0,Endurance training,2264.0,Whole foods,51.86
+422710,Female,26,3.8,General health,2116.0,Whole foods,55.73
+297775,Female,26,3.6,General health,2331.0,Whole foods,56.26
+389336,Female,27,7.5,General health,1905.0,High protein,40.55
+887494,Male,31,5.6,Endurance training,2236.0,Low carb,45.27
+708364,Female,27,4.4,Build muscle,2805.0,High protein,52.13
+189780,Female,26,8.4,Fat loss,1963.0,Low carb,46.95
+252617,Female,29,5.1000000000000005,Build muscle,2745.0,High protein,49.55
+645977,Female,18,6.8,General health,1880.0,Whole foods,51.02
+897606,Female,33,6.3,Build muscle,2649.0,Vegan,63.86
+450605,Male,31,6.6,Fat loss,1896.0,Low carb,29.68
+989465,Female,21,6.5,Build muscle,2895.0,Low carb,51.25
+633636,Female,26,6.2,General health,2321.0,High protein,
+138102,Female,26,5.1,General health,2063.0,Whole foods,56.28
+174460,Female,33,4.6,Build muscle,2648.0,Whole foods,62.4
+464778,Male,33,7.4,General health,2073.0,Whole foods,48.89
+189930,Male,26,5.1,Build muscle,2693.0,,69.45
+631089,Male,27,6.1,Fat loss,1931.0,Whole foods,54.25
+727438,Male,26,5.1,General health,1971.0,High protein,33.73
+827627,Female,19,5.699999999999999,Build muscle,2764.0,High protein,48.29
+279208,Female,32,5.3,Flexibility,1525.0,High protein,32.82
+254697,Female,32,5.5,Build muscle,2968.0,,60.97
+313945,Male,28,4.8,Build muscle,2849.0,High protein,53.63
+331915,Female,25,4.5,Flexibility,1975.0,Vegan,45.51
+827952,Male,18,6.8,Build muscle,2855.0,Vegan,57.56
+308124,Male,36,,Flexibility,1525.0,Whole foods,27.02
+537477,Female,24,7.5,Flexibility,1533.0,Whole foods,38.37
+625830,Female,27,,Build muscle,2763.0,Whole foods,67.92
+383821,Male,37,5.1,Fat loss,1637.0,High protein,32.17
+277804,Male,25,4.5,Build muscle,2803.0,High protein,48.26
+805703,Male,18,6.300000000000001,Fat loss,1682.0,Low carb,23.71
+139081,Male,31,,Build muscle,2862.0,High protein,54.15
+818216,Female,20,6.1000000000000005,Build muscle,2741.0,High protein,58.71
+455249,Male,28,5.8999999999999995,Build muscle,2553.0,High protein,56.95
+319930,Male,25,6.2,Fat loss,1961.0,High protein,46.2
+905497,Male,29,,Flexibility,1667.0,Vegan,33.15
+617313,Male,26,6.1,General health,2430.0,Whole foods,53.79
+314532,Male,27,,General health,2454.0,Whole foods,62.74
+712380,Male,26,7.0,Fat loss,1580.0,Low carb,34.85
+619332,Male,27,6.4,General health,2206.0,Vegan,50.14
+416837,Male,33,6.2,Build muscle,2561.0,High protein,40.99
+389106,Female,34,6.2,General health,1845.0,High protein,
+128295,Male,36,4.3,Flexibility,2098.0,Vegan,44.2
+113807,Other,18,5.7,Build muscle,2598.0,Whole foods,65.45
+535564,Male,44,3.8,Endurance training,2294.0,Whole foods,58.49
+257504,Female,28,6.6,General health,,Whole foods,
+338067,Female,32,5.8,Flexibility,1975.0,Vegan,44.81
+585008,Female,22,6.5,General health,2391.0,Whole foods,59.42
+792440,Female,28,4.3,Build muscle,2515.0,Low carb,48.37
+494540,Male,38,5.2,Build muscle,2859.0,High protein,57.19
+977699,Male,30,7.0,Build muscle,2986.0,Low carb,55.2
+617923,Male,21,5.7,General health,2301.0,Whole foods,54.99
+266981,Female,26,5.1,Build muscle,2640.0,Low carb,48.05
+844699,Male,35,3.9,General health,2419.0,Whole foods,59.97
+119870,Male,28,7.5,Build muscle,2802.0,High protein,57.77
+303196,Female,29,5.6,Build muscle,2764.0,Whole foods,68.57
+348683,Female,31,7.699999999999999,Fat loss,1946.0,High protein,47.9
+334677,Female,28,5.7,General health,2089.0,High protein,43.49
+126790,Female,18,7.1000000000000005,Build muscle,2708.0,Whole foods,63.37
+743162,Other,36,4.800000000000001,Fat loss,1974.0,Whole foods,52.67
+911721,Male,23,7.2,Fat loss,1912.0,,33.35
+548345,Male,28,7.3,Build muscle,2664.0,High protein,48.38
+849074,Male,25,5.0,Build muscle,2926.0,High protein,58.35
+587462,Male,34,4.6,General health,,Whole foods,55.09
+639773,Female,22,7.7,Fat loss,1819.0,Whole foods,40.86
+930914,Male,30,,Build muscle,2651.0,Whole foods,63.65
+186188,Female,32,5.7,General health,2089.0,Whole foods,48.53
+629036,Male,25,6.7,Flexibility,1931.0,,40.58
+842129,Female,25,5.9,Endurance training,2267.0,Whole foods,60.45
+764795,Female,35,5.6,Fat loss,1650.0,Low carb,35.24
+890141,Male,28,4.0,General health,2054.0,Whole foods,49.32
+748249,Male,26,7.4,Flexibility,1852.0,Whole foods,44.86
+130355,Male,27,4.9,General health,2176.0,Whole foods,46.13
+811131,Male,38,6.8,Fat loss,1640.0,Low carb,39.6
+551015,Male,26,6.8,Fat loss,1842.0,High protein,41.56
+506332,Male,20,7.2,General health,2157.0,High protein,41.05
+256542,Male,21,7.8,Build muscle,2595.0,Whole foods,68.23
+273416,Female,29,7.0,Fat loss,1928.0,,37.06
+405062,Female,25,4.0,General health,2169.0,Vegan,44.06
+938656,Female,32,4.9,Endurance training,2226.0,Whole foods,56.18
+663586,Male,19,5.9,Fat loss,1692.0,,39.08
+601708,Female,30,4.4,Endurance training,2302.0,High protein,43.24
+966651,Male,21,5.6000000000000005,Build muscle,2813.0,,68.38
+161629,Male,32,5.8,Fat loss,1992.0,Whole foods,46.96
+428184,Female,24,5.5,General health,2188.0,Whole foods,56.98
+592734,Male,25,4.5,Build muscle,2876.0,High protein,64.71
+855195,Female,23,6.4,Build muscle,,High protein,54.63
+390160,Female,22,6.1,Flexibility,1617.0,Vegan,28.09
+648248,Male,30,,Build muscle,2504.0,High protein,41.54
+920023,Male,18,6.9,Build muscle,2943.0,High protein,57.74
+313920,Male,28,4.3,Flexibility,1851.0,Whole foods,41.77
+989765,Female,37,5.9,General health,2332.0,Whole foods,58.23
+342804,Male,27,4.9,Endurance training,2151.0,Whole foods,52.98
+476965,Male,29,6.4,General health,2439.0,High protein,41.01
+560857,Male,30,6.0,Build muscle,2623.0,Vegan,46.87
+922827,Female,20,6.8,General health,2457.0,Whole foods,62.2
+604492,Male,20,8.2,Fat loss,1776.0,Whole foods,47.2
+753983,Male,26,5.9,General health,2193.0,Whole foods,51.93
+515916,Female,32,7.1,Fat loss,1651.0,Vegan,29.59
+921052,Female,31,6.1,Endurance training,2359.0,Whole foods,60.31
+858574,Male,34,8.2,Fat loss,1610.0,Low carb,39.48
+228148,Male,31,7.8,Fat loss,1968.0,Low carb,40.1
+906991,Male,27,6.0,General health,2427.0,High protein,44.25
+586261,Female,35,5.4,Endurance training,2187.0,High protein,
+455540,Male,28,5.6,Endurance training,,Low carb,31.57
+292714,Male,25,7.699999999999999,Fat loss,1750.0,High protein,42.95
+831899,Female,35,5.4,Fat loss,,High protein,38.62
+383876,Female,31,6.9,General health,1949.0,High protein,
+359747,Male,27,5.0,General health,,High protein,43.01
+715650,Female,28,6.1,Endurance training,2161.0,,55.82
+523570,Female,29,3.6,Flexibility,1619.0,High protein,
+375987,Male,18,5.9,General health,2381.0,Whole foods,56.91
+738353,Male,22,8.6,Fat loss,1911.0,High protein,35.16
+958158,Other,28,3.6,Endurance training,2350.0,Whole foods,58.59
+117640,Male,24,5.7,Flexibility,1598.0,Whole foods,37.27
+152528,Male,32,,Endurance training,2166.0,Whole foods,42.83
+924845,Male,30,3.9,General health,2462.0,Whole foods,56.66
+359214,Female,31,5.1,Endurance training,2325.0,High protein,50.84
+939070,Male,25,6.6,Fat loss,1963.0,Whole foods,47.51
+601108,Male,27,4.7,Build muscle,2501.0,Whole foods,68.72
+734421,Male,31,6.199999999999999,Fat loss,1651.0,Whole foods,44.25
+468501,Male,29,6.0,Flexibility,1900.0,,49.24
+824226,Female,30,4.4,Endurance training,2364.0,Vegan,48.98
+250159,Female,31,5.8,Fat loss,1564.0,Whole foods,39.49
+272502,Male,29,5.4,Flexibility,,Vegan,38.59
+255576,Male,31,8.7,Fat loss,1568.0,Low carb,31.32
+965291,Female,24,,Fat loss,1620.0,High protein,38.13
+986089,Male,22,5.9,General health,2420.0,Whole foods,54.49
+111023,Male,30,3.8,General health,2046.0,High protein,34.49
+645735,Other,22,7.8,Build muscle,2933.0,High protein,53.42
+488043,Female,28,5.5,Fat loss,1592.0,Low carb,40.9
+386103,Male,22,6.6,Fat loss,1767.0,Whole foods,47.69
+166203,Male,33,6.6,Build muscle,2602.0,Vegan,
+260775,Male,36,5.5,Fat loss,1930.0,High protein,33.85
+109337,Male,24,9.0,Fat loss,1950.0,High protein,45.42
+670715,Male,26,5.5,Build muscle,2611.0,Whole foods,62.56
+614723,Male,23,8.3,Fat loss,1820.0,Whole foods,48.66
+423673,Male,24,6.0,Build muscle,2910.0,Whole foods,65.39
+464167,Female,24,8.2,Fat loss,1803.0,Low carb,37.11
+446809,Female,29,5.9,General health,1861.0,Whole foods,44.47
+730075,Male,29,5.1,General health,2099.0,Whole foods,47.48
+787281,Male,24,6.2,Build muscle,2902.0,Low carb,56.51
+395451,Female,28,6.3,Build muscle,2942.0,High protein,50.31
+520571,Male,25,6.1000000000000005,Build muscle,2635.0,,55.13
+227016,Male,24,8.0,Fat loss,1554.0,Whole foods,
+891267,Other,30,6.8,Build muscle,2607.0,Low carb,44.06
+644447,Male,25,4.9,Fat loss,1802.0,Low carb,29.55
+597562,Female,32,4.8,Build muscle,2757.0,High protein,52.35
+802965,Other,20,5.3,General health,2052.0,High protein,42.59
+483934,Male,33,6.9,Build muscle,2721.0,Low carb,49.65
+992048,Male,26,4.9,Build muscle,2977.0,High protein,59.67
+965184,Male,21,6.8,General health,2168.0,High protein,53.28
+417428,Female,30,,Build muscle,2666.0,Vegan,54.65
+419187,Female,24,6.5,Build muscle,2928.0,Vegan,53.72
+790907,Female,36,6.9,Fat loss,1659.0,Whole foods,46.98
+983439,Male,35,5.2,Fat loss,1948.0,Low carb,44.72
+182844,Female,23,6.5,General health,1965.0,Whole foods,51.38
+651820,Female,24,7.5,Build muscle,2704.0,Whole foods,61.4
+265421,Female,26,5.7,Fat loss,1766.0,Whole foods,43.68
+222402,Female,23,7.199999999999999,Build muscle,2637.0,Vegan,51.59
+218012,Female,33,4.7,Build muscle,2867.0,High protein,58.58
+538661,Female,31,5.1,General health,2242.0,Whole foods,47.77
+498929,Female,24,8.2,General health,2366.0,Low carb,44.1
+680466,Male,26,7.5,Build muscle,2903.0,High protein,53.23
+673695,Male,37,5.4,Fat loss,1708.0,,33.14
+563556,Female,21,,Build muscle,2516.0,High protein,49.86
+675278,Male,20,8.0,General health,1867.0,Whole foods,49.29
+229473,Female,38,5.2,Build muscle,2632.0,,47.7
+578007,Other,31,,Build muscle,2687.0,Low carb,44.52
+944573,Female,28,6.5,Fat loss,1906.0,Low carb,39.78
+517009,Male,25,6.300000000000001,Fat loss,1929.0,Low carb,36.62
+418714,Male,22,9.8,Fat loss,1807.0,High protein,35.42
+326156,Male,28,6.0,Build muscle,2637.0,Vegan,67.43
+268964,Female,34,6.9,Build muscle,,,68.04
+625303,Female,30,5.4,Fat loss,1911.0,Low carb,35.09
+161813,Female,18,7.8,Build muscle,2596.0,,71.73
+127712,Male,32,4.2,General health,2482.0,Low carb,53.52
+724785,Female,18,9.4,Build muscle,2653.0,High protein,54.55
+867214,Female,19,6.8,Fat loss,1682.0,High protein,37.45
+212816,Male,32,7.5,Endurance training,2241.0,Vegan,44.76
+228778,Female,29,6.2,Build muscle,2803.0,Whole foods,67.29
+686580,Male,32,6.0,Endurance training,2284.0,Whole foods,55.19
+385977,Male,28,4.1,General health,1826.0,Vegan,39.81
+235230,Female,26,,Build muscle,2901.0,Low carb,52.81
+818040,Male,23,6.6,Flexibility,1859.0,Whole foods,49.91
+906741,Female,20,7.1000000000000005,Fat loss,1559.0,High protein,34.93
+369114,Female,27,7.6000000000000005,Build muscle,2701.0,High protein,48.64
+434618,Female,20,6.4,Fat loss,1749.0,Whole foods,39.78
+932972,Male,35,5.8,Build muscle,2861.0,Vegan,57.7
+251456,Male,32,3.0,General health,2380.0,Whole foods,54.54
+904449,Female,18,5.0,General health,2169.0,Vegan,51.55
+962312,Male,21,5.9,General health,2332.0,Whole foods,51.38
+205570,Male,25,5.9,Flexibility,1651.0,Vegan,35.13
+370846,Male,28,6.9,General health,1901.0,Low carb,41.65
+100404,Female,20,5.5,Endurance training,2386.0,Whole foods,56.59
+803286,Male,31,5.0,Build muscle,2987.0,High protein,60.07
+374907,Female,23,6.2,Fat loss,1594.0,High protein,32.95
+773744,Female,18,,Build muscle,2945.0,High protein,60.05
+815460,Male,24,6.9,General health,2028.0,High protein,40.88
+984574,Male,29,8.100000000000001,Fat loss,1624.0,Vegan,41.48
+765220,Other,33,6.5,Build muscle,2757.0,High protein,
+335365,Female,23,7.699999999999999,Build muscle,2821.0,High protein,55.12
+442786,Female,31,6.8,Build muscle,2986.0,High protein,60.67
+150612,Female,30,5.9,Fat loss,1868.0,High protein,41.01
+910006,Male,22,7.6000000000000005,Fat loss,1925.0,Low carb,45.31
+909956,Male,37,5.0,Endurance training,2235.0,High protein,42.27
+300244,Male,24,,Fat loss,1661.0,Whole foods,49.65
+897348,Male,26,5.8,Endurance training,2041.0,High protein,38.08
+104809,Male,27,5.7,Build muscle,2775.0,High protein,61.15
+263273,Male,23,8.7,Build muscle,2852.0,Whole foods,75.22
+808690,Male,24,7.2,Fat loss,1567.0,Vegan,
+244528,Female,21,8.5,Fat loss,1672.0,High protein,38.43
+606964,Female,27,5.5,Build muscle,2991.0,Whole foods,71.44
+549613,Male,19,7.4,Build muscle,2830.0,High protein,59.99
+138765,Female,42,5.9,Build muscle,2624.0,Whole foods,62.64
+931538,Male,24,,Fat loss,1669.0,Low carb,31.52
+416076,Female,25,5.7,Build muscle,2546.0,Vegan,61.05
+943523,Male,23,7.6,Endurance training,2260.0,Whole foods,56.44
+646237,Other,24,7.9,General health,2016.0,Low carb,43.72
+301152,Female,32,5.8,Build muscle,2804.0,Vegan,58.19
+399888,Male,26,5.0,Flexibility,1623.0,Vegan,43.98
+800903,Male,29,,Fat loss,1792.0,High protein,33.58
+994751,Male,38,,Endurance training,2161.0,High protein,39.51
+192193,Male,19,6.1,Endurance training,2200.0,High protein,52.1
+136187,Male,27,6.3,Endurance training,2453.0,Whole foods,58.01
+605950,Female,23,9.3,Fat loss,1901.0,Low carb,46.81
+238311,Male,28,8.4,Fat loss,1961.0,Low carb,43.54
+900921,Female,30,5.7,Build muscle,2774.0,High protein,53.72
+608153,Female,24,8.0,Build muscle,2705.0,High protein,46.02
+289089,Male,22,6.4,Build muscle,2539.0,Whole foods,62.15
+686165,Female,32,,Build muscle,2772.0,High protein,54.32
+536341,Male,20,5.7,Build muscle,2687.0,Vegan,62.79
+412066,Female,29,4.5,Build muscle,2854.0,Whole foods,75.76
+718362,Male,22,7.3,General health,1892.0,Whole foods,44.99
+787409,Other,26,6.3,General health,1841.0,Whole foods,
+661419,Female,22,5.4,Flexibility,1964.0,Whole foods,52.34
+740053,Male,34,4.7,Fat loss,1878.0,Low carb,40.11
+960395,Male,27,6.0,General health,1906.0,Whole foods,50.18
+731172,Female,32,4.7,General health,2127.0,Low carb,29.14
+225917,Female,28,6.699999999999999,Fat loss,1564.0,High protein,32.73
+910717,Male,32,5.7,Build muscle,2864.0,High protein,50.33
+399770,Male,30,4.5,Flexibility,1983.0,Whole foods,47.2
+798168,Female,32,6.5,Fat loss,1634.0,Low carb,37.06
+581680,Male,21,7.699999999999999,Fat loss,1993.0,High protein,43.56
+381342,Female,18,7.2,Build muscle,2888.0,High protein,63.48
+639542,Male,24,6.3999999999999995,Build muscle,2523.0,Whole foods,63.6
+144238,Male,23,8.0,General health,2339.0,Whole foods,52.54
+101252,Female,22,6.2,Endurance training,2061.0,Whole foods,38.73
+926196,Male,32,5.9,Build muscle,2990.0,Vegan,63.77
+964141,Male,23,5.5,Build muscle,2772.0,High protein,53.23
+585450,Male,25,5.4,Fat loss,1728.0,Low carb,27.95
+415826,Male,27,7.4,Fat loss,1519.0,Whole foods,31.59
+421638,Female,31,6.6,Build muscle,2502.0,High protein,46.64
+705605,Male,27,,General health,2220.0,Whole foods,53.7
+427359,Female,19,7.1000000000000005,Build muscle,2717.0,High protein,57.92
+702875,Female,21,6.3,Build muscle,2898.0,High protein,58.15
+106949,Female,24,6.2,Endurance training,2306.0,Whole foods,64.89
+863185,Male,18,6.2,Build muscle,2931.0,Low carb,
+417537,Male,22,6.3,General health,1935.0,High protein,44.28
+828913,Female,29,4.5,General health,2314.0,Whole foods,55.9
+762301,Female,23,7.1,General health,1992.0,Low carb,42.02
+650222,Female,31,,Build muscle,2572.0,High protein,48.35
+880722,Male,27,5.3,Build muscle,,High protein,62.05
+555102,Male,28,6.7,Build muscle,2860.0,Whole foods,71.19
+437889,Female,22,8.4,Fat loss,1617.0,Low carb,30.0
+576467,Female,35,5.4,General health,2465.0,Whole foods,59.72
+456600,Female,31,4.3,General health,2008.0,Whole foods,47.42
+415557,Female,25,6.4,General health,1833.0,Whole foods,48.81
+983671,Female,28,5.5,Flexibility,2148.0,Vegan,40.39
+404462,Male,32,4.8,General health,2117.0,Vegan,44.97
+350875,Male,24,7.0,Build muscle,2619.0,High protein,54.72
+563389,Male,20,8.8,Build muscle,2614.0,Vegan,58.18
+170390,Male,29,3.7,Endurance training,2012.0,Whole foods,54.96
+807689,Female,32,5.5,Build muscle,2568.0,Whole foods,66.05
+353490,Male,28,7.4,Build muscle,2924.0,Whole foods,71.67
